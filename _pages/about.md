@@ -66,31 +66,31 @@ redirect_from:
 
 # 📝 论文专利
 
-### 英文
+### 英文 (*为通讯作者)
 ---
-[33] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang`*. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436.
+[33] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang`*. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
 
-[32] Xiaoyao Guo, Yan Chen*, Shipeng He, `Xingpeng Zhang`, Jing Zhou, Xucheng Bao. Multi-scale channel enhanced transformer for rock thin sections identification and sequence consistency optimization[J]. Computational Geosciences. 2025, 29(3): 1-19.
+[32] Xiaoyao Guo, Yan Chen*, Shipeng He, `Xingpeng Zhang`, Jing Zhou, Xucheng Bao. Multi-scale channel enhanced transformer for rock thin sections identification and sequence consistency optimization[J]. Computational Geosciences. 2025, 29(3): 1-19. （SCI 3区, JCR Q2, IF: 2.2）
 
-[31] Bing Wang, Chaoqi Cai*, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Youming Zhang. MapsTSF: efficient traffic prediction via hybrid Mamba 2-transformer spatiotemporal modeling and cross adaptive periodic sparse forecasting[J]. The Journal of Supercomputing. 2025, 81(7): 1-31.
+[31] Bing Wang, Chaoqi Cai*, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Youming Zhang. MapsTSF: efficient traffic prediction via hybrid Mamba 2-transformer spatiotemporal modeling and cross adaptive periodic sparse forecasting[J]. The Journal of Supercomputing. 2025, 81(7): 1-31. （SCI 4区, JCR Q2, IF: 2.4）
 
-[30] `Xingpeng Zhang`, Hongwei Liu, Bin Xiao*, Min Wang, Bing Wang. Multistage decomposition transformer network for predicting complex long time series of heavy oil parameters[J]. Applied Intelligence. 2025. 55(7): 677.
+[30] `Xingpeng Zhang`, Hongwei Liu, Bin Xiao*, Min Wang, Bing Wang. Multistage decomposition transformer network for predicting complex long time series of heavy oil parameters[J]. Applied Intelligence. 2025. 55(7): 677. （SCI 3区, JCR Q2, IF: 3.9）
 
 [29] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2025. (CCF A类推荐会议, Highlight paper)
 
-[28] Xin Wang, Wang Zhang, Yuhong Wu, `Xingpeng Zhang`, Chao Wang, Huayi Zhan. Breaking the gap between label correlation and instance similarity via new multi-label contrastive learning[J]. Neurocomputing. 2025, 614: 128719.
+[28] Xin Wang, Wang Zhang, Yuhong Wu, `Xingpeng Zhang`, Chao Wang, Huayi Zhan. Breaking the gap between label correlation and instance similarity via new multi-label contrastive learning[J]. Neurocomputing. 2025, 614: 128719. （SCI 2区, JCR Q1, IF: 5.5）
 
-[27] `Xingpeng Zhang`*, Jing Xu, Dong He, Kaixin Wang, Liping Wang. Lightweight multi-scale attention group fusion structure for nuclei segmentation[J]. The Journal of Supercomputing, 2025, 81(1), 199.
+[27] `Xingpeng Zhang`*, Jing Xu, Dong He, Kaixin Wang, Liping Wang. Lightweight multi-scale attention group fusion structure for nuclei segmentation[J]. The Journal of Supercomputing, 2025, 81(1), 199. （SCI 4区, JCR Q2, IF: 2.4）
 
-[26] `Xingpeng Zhang`, Yunfeng Pan, Qiuli Wang, Mo Yang, Bin Xiao*. FourierFilter irregular attention U-Net with multi-receptive field fusion for cell nucleus segmentation[J]. Journal of Intelligent & Fuzzy Systems, 2024, 47(5-6): 471-485
+[26] `Xingpeng Zhang`, Yunfeng Pan, Qiuli Wang, Mo Yang, Bin Xiao*. FourierFilter irregular attention U-Net with multi-receptive field fusion for cell nucleus segmentation[J]. Journal of Intelligent & Fuzzy Systems, 2024, 47(5-6): 471-485. （SCI 4区, JCR Q2, IF: 1.8）
 
-[25] `Xingpeng Zhang`*, Dong He, Adaptive impulsive synchronization for fractional-order quaternion-valued neural networks with different structures and unknown parameters[J]. Journal of Vibration and Control. 2024. 30(23-24): 5344-5357.
+[25] `Xingpeng Zhang`*, Dong He, Adaptive impulsive synchronization for fractional-order quaternion-valued neural networks with different structures and unknown parameters[J]. Journal of Vibration and Control. 2024. 30(23-24): 5344-5357. （SCI 3区, JCR Q2, IF: 2.6）
 
 [24] `Xingpeng Zhang`*, Peng Guo, Multi-Attention Feature Fusion for Nuclei Segmentation and Classification[C]. Advances in Engineering Technology Research. 2024, 12: 545-545. (EI会议)
 
-[23] Liping Wang, `Xingpeng Zhang`, Ping Chen, Dehao Zhou. Doctor simulator: Delta-Age-Sex-AdaIn enhancing bone age assessment through AdaIn style transfer[J]. Pediatric Radiology. 2024. 54(10): 1704-1712.
+[23] Liping Wang, `Xingpeng Zhang`, Ping Chen, Dehao Zhou. Doctor simulator: Delta-Age-Sex-AdaIn enhancing bone age assessment through AdaIn style transfer[J]. Pediatric Radiology. 2024. 54(10): 1704-1712. （SCI 4区, JCR Q2, IF: 2.3）
 
-[22] `Xingpeng Zhang`*, Yuru Li, Peng Guo, Meilin Gao. Synchronization of heterogeneous discrete-time fractional-order quaternion-valued neural networks with time delay and parameter uncertainty using the impulsive method[J]. Journal of Vibration and Control. 2024. Doi: 10.1177/10775463241264869. 
+[22] `Xingpeng Zhang`*, Yuru Li, Peng Guo, Meilin Gao. Synchronization of heterogeneous discrete-time fractional-order quaternion-valued neural networks with time delay and parameter uncertainty using the impulsive method[J]. Journal of Vibration and Control. 2024. Doi: 10.1177/10775463241264869. （SCI 3区, JCR Q2, IF: 2.6）
 
 [21] Bing Wang, Xiaoling Yang, `Xingpeng Zhang`*, Chunlan Zhao, Chunhao Wang, Weishan Feng. Recommendation Algorithm Based on Refined Knowledge Graphs and Contrastive Learning[C]. International Conference on Knowledge Science, Engineering and Management (KSEM). 2024: 205-217. (CCF C类推荐会议)
 
@@ -100,7 +100,7 @@ redirect_from:
 
 [18] `Xingpeng Zhang`*, Meilin Gao, Guohai Gao, Xin Wang, Qiuli Wang, Edge-Guided Multilevel Feature Fusion Network for Lightweight Camouflaged Object Detection[C]. International Joint Conference on Neural Networks (IJCNN), 2024: 1-7. (CCF C类推荐会议)
 
-[17] `Xingpeng Zhang`*, Yuru Li, Qiuli Wang, Sijing Wu, MFI-CD: a lightweight siamese network with multidimensional feature interaction for change detection[J]. International Journal of Remote Sensing, 2024, 45(8): 2548-2566.
+[17] `Xingpeng Zhang`*, Yuru Li, Qiuli Wang, Sijing Wu, MFI-CD: a lightweight siamese network with multidimensional feature interaction for change detection[J]. International Journal of Remote Sensing, 2024, 45(8): 2548-2566. （SCI 3区, JCR Q2, IF: 3.3）
 
 [16] Bing Wang, Hangbin Ye, `Xingpeng Zhang`*, Dong He, Xin Wang, Qiuli Wang, Chunlan Zhao, Object Correlation Matrix for Two-Stage Object Detection Network[C].  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2024: 9846-9850. (CCF B类推荐会议)
 
@@ -114,25 +114,25 @@ redirect_from:
 
 [11] Xin Wang, Chao Wang, Haiyang Yang, `Xingpeng Zhang`, Qi Shen, Kan Ji, Yuhong Wu, Huayi Zhan, KGAT: An Enhanced Graph-Based Model for Text Classification[C]. CCF International Conference on Natural Language Processing and Chinese Computing. 2022: 656-668. (CCF C类推荐会议)
 
-[10] `Xingpeng Zhang`, Xiaohong Zhang*, Global learnable pooling with enhancing distinctive feature for image classification[J]. IEEE Access, 2020, 8: 98539-98547.
+[10] `Xingpeng Zhang`, Xiaohong Zhang*, Global learnable pooling with enhancing distinctive feature for image classification[J]. IEEE Access, 2020, 8: 98539-98547. （SCI 3区, JCR Q2, IF: 3.4）
 
-[9] `Xingpeng Zhang`, Xiaohong Zhang*, Feature Recalibration in Deep Learning via Depthwise Squeeze and Refinement Operations[J]. IEEE Access, 2020, 8: 79046-79055.
+[9] `Xingpeng Zhang`, Xiaohong Zhang*, Feature Recalibration in Deep Learning via Depthwise Squeeze and Refinement Operations[J]. IEEE Access, 2020, 8: 79046-79055. （SCI 3区, JCR Q2, IF: 3.4）
 
-[8] Yuangan Wang, `Xingpeng Zhang`, Liping Yang, Hong Huang, Adaptive synchronization of time delay chaotic systems with uncertain and unknown parameters via aperiodically intermittent control[J]. International Journal of Control, Automation and Systems, 2020, 18(3): 696-707
+[8] Yuangan Wang, `Xingpeng Zhang`, Liping Yang, Hong Huang, Adaptive synchronization of time delay chaotic systems with uncertain and unknown parameters via aperiodically intermittent control[J]. International Journal of Control, Automation and Systems, 2020, 18(3): 696-707. （SCI 3区, JCR Q2, IF: 2.5）
 
 [7] Qiuli Wang, `Xingpeng Zhang`, Wei Chen, Kun Wang, Xiaohong Zhang, Class-aware multi-window adversarial lung nodule synthesis conditioned on semantic features[C]. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI). 2020: 589-598. (CCF B类推荐会议)
 
-[6] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Dan Yang, Adaptive synchronization for a class of fractional order time-delay uncertain chaotic systems via fuzzy fractional order neural network[J]. International Journal of Control, Automation and Systems. 2019, 17(5): 1209-1220.
+[6] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Dan Yang, Adaptive synchronization for a class of fractional order time-delay uncertain chaotic systems via fuzzy fractional order neural network[J]. International Journal of Control, Automation and Systems. 2019, 17(5): 1209-1220. （SCI 3区, JCR Q2, IF: 2.5）
 
-[5] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Adaptive impulsive synchronization for a class of fractional order complex chaotic systems[J]. Journal of Vibration and Control, 2019, 25(10): 1614-1628.
+[5] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Adaptive impulsive synchronization for a class of fractional order complex chaotic systems[J]. Journal of Vibration and Control, 2019, 25(10): 1614-1628. （SCI 3区, JCR Q2, IF: 2.6）
 
 [4] `Xingpeng Zhang`, Sheng Huang, Xiaohong Zhang*, Wei Wang, Qiuli Wang, Dan Yang, Residual inception: a new module combining modified residual with inception to improve network performance[C]. IEEE International Conference on Image Processing (ICIP). 2018: 3039-3043. (CCF C类推荐会议)
 
-[3] `Xingpeng Zhang`, Dong Li*, Xiaohong Zhang, Adaptive fuzzy impulsive synchronization of chaotic systems with random parameters[J]. Chaos, Solitons & Fractals, 2017, 104: 77-83.
+[3] `Xingpeng Zhang`, Dong Li*, Xiaohong Zhang, Adaptive fuzzy impulsive synchronization of chaotic systems with random parameters[J]. Chaos, Solitons & Fractals, 2017, 104: 77-83. （SCI 1区, JCR Q1, IF: 5.3）
 
-[2] Dong Li*, `Xingpeng Zhang`, Impulsive synchronization of fractional order chaotic systems with time-delay[J]. Neurocomputing, 2016, 216, 39-44. 
+[2] Dong Li*, `Xingpeng Zhang`, Impulsive synchronization of fractional order chaotic systems with time-delay[J]. Neurocomputing, 2016, 216, 39-44. （SCI 2区, JCR Q1, IF: 5.5）
 
-[1] Dong Li, `Xingpeng Zhang`*, Adaptive impulsive synchronization of fractional order chaotic system with uncertain and unknown parameters[J]. Neurocomputing, 2015, 167: 165-171. 
+[1] Dong Li, `Xingpeng Zhang`*, Adaptive impulsive synchronization of fractional order chaotic system with uncertain and unknown parameters[J]. Neurocomputing, 2015, 167: 165-171. （SCI 2区, JCR Q1, IF: 5.5）
 
 ### 中文
 ---
