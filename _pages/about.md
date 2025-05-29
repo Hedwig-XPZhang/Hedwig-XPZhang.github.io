@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-目前于西南石油大学 计算机与软件学院工作。博士毕业于重庆大学，大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，我已经于CVPR、Chaos发表 30+ 篇学术论文
- <a href='https://scholar.google.com.hk/citations?user=l2iJL9wAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+目前于西南石油大学 计算机与软件学院工作。博士毕业于重庆大学，大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、Neurocomputing、Chaos, Solitons & Fractals等期刊和学术会议上发表 30+ 篇学术论文。
 
 我的研究领域包括：
 - 计算机视觉
