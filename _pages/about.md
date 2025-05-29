@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-目前于西南石油大学 计算机与软件学院工作。博士毕业于重庆大学，大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院。本科毕业于济南大学 数学科学学院。包括合著，我已经于CVPR、Chaos发表 30+ 篇学术论文
+目前于西南石油大学 计算机与软件学院工作。博士毕业于重庆大学，大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，我已经于CVPR、Chaos发表 30+ 篇学术论文
  <a href='https://scholar.google.com.hk/citations?user=l2iJL9wAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -32,146 +32,150 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 工作
+# 💻 工作
 
 - *2020.12 - 至今*, 西南石油大学 计算机与软件学院， 讲师， 硕士生导师
 
 # 🎓 学历
+
 - *2015.09 - 2020.12*, 重庆大学 大数据与软件学院, 重庆, 软件工程专业 博士研究生 
 - *2012.09 - 2015.06*, 重庆大学 数学与统计学院, 重庆, 应用数学专业 硕士研究生
 - *2008.09 - 2012.06*, 济南大学 数学科学学院, 山东济南, 数学与应用数学专业 本科生
  
 <span class='anchor' id='-lwzl'></span>
 
+# 🏛️ 纵向项目
+
+[8] 国家重点研发计划: 城镇燃气系统事故隐患排查管控关键技术研究与示范 (2024YFC3810700). 主研.
+
+[7] 国家自然科学基金专项: 高相似背景下复杂物体的多域协同检测研究 (62441610). 主持.
+
+[6] 西南石油大学自然科学“启航计划”项目: 融合分数阶图像增强理论的隐蔽物体实时检测研究 (2022QHZ023). 主持.
+
+[5] 四川省科技创新人才基金: 超大规模知识图谱构建、推理与检索技术研究 (2022JDRC0009). 主研. 
+
+[4] 国家自然科学基金面上项目: 深度形状语义网络表示机理及其结构保留机制与判别性研究(61772093). 主研. 
+
+[3]	国家自然科学基金青年科学基金项目: 存储资源优化配置下的信息中心网络对象存储策略研究 (61602071). 参研.
+
+[2]	重庆市人工智能技术创新重大主题专项(重点研发项目): 基于多源时空大数据城市公共交通出行感知检测评价预警技术研究与示范应用 (cstc2017rgzn-zdyf0150).  参研.
+
+[1]	重庆市自然科学基金: 面向视频行为识别的多模态深度度量学习研究 (cstc2018jcyjA3252). 主研.
+
+<span class='anchor' id='-lwzl'></span>
+
 # 📝 论文专利
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[33] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang`*. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436.
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[32] Xiaoyao Guo, Yan Chen*, Shipeng He, `Xingpeng Zhang`, Jing Zhou, Xucheng Bao. Multi-scale channel enhanced transformer for rock thin sections identification and sequence consistency optimization[J]. Computational Geosciences. 2025, 29(3): 1-19.
 
-</div>
-</div>
+[31] Bing Wang, Chaoqi Cai*, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Youming Zhang. MapsTSF: efficient traffic prediction via hybrid Mamba 2-transformer spatiotemporal modeling and cross adaptive periodic sparse forecasting[J]. The Journal of Supercomputing. 2025, 81(7): 1-31.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[30] `Xingpeng Zhang`, Hongwei Liu, Bin Xiao*, Min Wang, Bing Wang. Multistage decomposition transformer network for predicting complex long time series of heavy oil parameters[J]. Applied Intelligence. 2025. 55(7): 677.
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+[29] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2025. (CCF A类推荐会议, Highlight paper)
 
-</div>
-</div>
+[28] Xin Wang, Wang Zhang, Yuhong Wu, `Xingpeng Zhang`, Chao Wang, Huayi Zhan. Breaking the gap between label correlation and instance similarity via new multi-label contrastive learning[J]. Neurocomputing. 2025, 614: 128719.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[27] `Xingpeng Zhang`*, Jing Xu, Dong He, Kaixin Wang, Liping Wang. Lightweight multi-scale attention group fusion structure for nuclei segmentation[J]. The Journal of Supercomputing, 2025, 81(1), 199.
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+[26] `Xingpeng Zhang`, Yunfeng Pan, Qiuli Wang, Mo Yang, Bin Xiao*. FourierFilter irregular attention U-Net with multi-receptive field fusion for cell nucleus segmentation[J]. Journal of Intelligent & Fuzzy Systems, 2024, 47(5-6): 471-485
 
-</div>
-</div>
+[25] `Xingpeng Zhang`*, Dong He, Adaptive impulsive synchronization for fractional-order quaternion-valued neural networks with different structures and unknown parameters[J]. Journal of Vibration and Control. 2024. 30(23-24): 5344-5357.
 
+[24] `Xingpeng Zhang`*, Peng Guo, Multi-Attention Feature Fusion for Nuclei Segmentation and Classification[C]. Advances in Engineering Technology Research. 2024, 12: 545-545. (EI会议)
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+[23] Liping Wang, `Xingpeng Zhang`, Ping Chen, Dehao Zhou. Doctor simulator: Delta-Age-Sex-AdaIn enhancing bone age assessment through AdaIn style transfer[J]. Pediatric Radiology. 2024. 54(10): 1704-1712.
 
+[22] `Xingpeng Zhang`*, Yuru Li, Peng Guo, Meilin Gao. Synchronization of heterogeneous discrete-time fractional-order quaternion-valued neural networks with time delay and parameter uncertainty using the impulsive method[J]. Journal of Vibration and Control. 2024. Doi: 10.1177/10775463241264869. 
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+[21] Bing Wang, Xiaoling Yang, `Xingpeng Zhang`*, Chunlan Zhao, Chunhao Wang, Weishan Feng. Recommendation Algorithm Based on Refined Knowledge Graphs and Contrastive Learning[C]. International Conference on Knowledge Science, Engineering and Management (KSEM). 2024: 205-217. (CCF C类推荐会议)
 
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
+[20] Bing Wang, Chunhao Wang, `Xingpeng Zhang`*, Chunlan Zhao, Xiaoling Yang, Kuan Guo. Multi-table Question Answering Method Based on Correlation Evaluation and Precomputed Cube[C]. International Conference on Knowledge Science, Engineering and Management (KSEM). 2024: 393-405. (CCF C类推荐会议)
 
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*, 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[下载]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
+[19] `Xingpeng Zhang`*, Zheng Li, Bin Xiao, Bing Wang. Multi-axis frequency domain residual UNet for pore identification in deep shale scanning electron microscopy images[C]. International Joint Conference on Neural Networks (IJCNN), 2024: 1-8. (CCF C类推荐会议)
 
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[下载]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
+[18] `Xingpeng Zhang`*, Meilin Gao, Guohai Gao, Xin Wang, Qiuli Wang, Edge-Guided Multilevel Feature Fusion Network for Lightweight Camouflaged Object Detection[C]. International Joint Conference on Neural Networks (IJCNN), 2024: 1-7. (CCF C类推荐会议)
 
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209357) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[下载]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
+[17] `Xingpeng Zhang`*, Yuru Li, Qiuli Wang, Sijing Wu, MFI-CD: a lightweight siamese network with multidimensional feature interaction for change detection[J]. International Journal of Remote Sensing, 2024, 45(8): 2548-2566.
 
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[网页]](https://dx.doi.org/10.3233/SAEM190009) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[下载]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
+[16] Bing Wang, Hangbin Ye, `Xingpeng Zhang`*, Dong He, Xin Wang, Qiuli Wang, Chunlan Zhao, Object Correlation Matrix for Two-Stage Object Detection Network[C].  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2024: 9846-9850. (CCF B类推荐会议)
 
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[网页]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[下载]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
+[15] Ping Chen, `Xingpeng Zhang`, Chengtao Zhou, Dichao Fan, Peng Tu, Le Zhang, Yanlin Qian*. Learning Triangular Distribution in Visual World[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 11019-11029. (CCF A类推荐会议, 共同一作)
 
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[下载]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
+[14] Bin Xiao, Yunfeng Pan, `Xingpeng Zhang`*. DA-UNet: Deformable Attention U-Net for Nucleus Segmentation[C]. International Conference on Computer, Vision and Intelligent Technology. 2023: 1-5. (EI 会议)
 
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
+[13] Ruohuan Liu, Yazhi Yang, Bin Wang, `Xingpeng Zhang`. Prediction of Cement Slurry Density Based on AMIndRNN[J]. Academic Journal of Science and Technology. 2023, 7(1): 156-161.
+
+[12] Ping Chen, `Xingpeng Zhang`*, Ye Li, Ju Tao, Bin Xiao, Bing Wang, Zongjie Jiang, DAA: A Delta Age AdaIN operation for age estimation via binary code transformer[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 15836-15845. (CCF A类推荐会议)
+
+[11] Xin Wang, Chao Wang, Haiyang Yang, `Xingpeng Zhang`, Qi Shen, Kan Ji, Yuhong Wu, Huayi Zhan, KGAT: An Enhanced Graph-Based Model for Text Classification[C]. CCF International Conference on Natural Language Processing and Chinese Computing. 2022: 656-668. (CCF C类推荐会议)
+
+[10] `Xingpeng Zhang`, Xiaohong Zhang*, Global learnable pooling with enhancing distinctive feature for image classification[J]. IEEE Access, 2020, 8: 98539-98547.
+
+[9] `Xingpeng Zhang`, Xiaohong Zhang*, Feature Recalibration in Deep Learning via Depthwise Squeeze and Refinement Operations[J]. IEEE Access, 2020, 8: 79046-79055.
+
+[8] Yuangan Wang, `Xingpeng Zhang`, Liping Yang, Hong Huang, Adaptive synchronization of time delay chaotic systems with uncertain and unknown parameters via aperiodically intermittent control[J]. International Journal of Control, Automation and Systems, 2020, 18(3): 696-707
+
+[7] Qiuli Wang, `Xingpeng Zhang`, Wei Chen, Kun Wang, Xiaohong Zhang, Class-aware multi-window adversarial lung nodule synthesis conditioned on semantic features[C]. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI). 2020: 589-598. (CCF B类推荐会议)
+
+[6] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Dan Yang, Adaptive synchronization for a class of fractional order time-delay uncertain chaotic systems via fuzzy fractional order neural network[J]. International Journal of Control, Automation and Systems. 2019, 17(5): 1209-1220.
+
+[5] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Adaptive impulsive synchronization for a class of fractional order complex chaotic systems[J]. Journal of Vibration and Control, 2019, 25(10): 1614-1628.
+
+[4] `Xingpeng Zhang`, Sheng Huang, Xiaohong Zhang*, Wei Wang, Qiuli Wang, Dan Yang, Residual inception: a new module combining modified residual with inception to improve network performance[C]. IEEE International Conference on Image Processing (ICIP). 2018: 3039-3043. (CCF C类推荐会议)
+
+[3] `Xingpeng Zhang`, Dong Li*, Xiaohong Zhang, Adaptive fuzzy impulsive synchronization of chaotic systems with random parameters[J]. Chaos, Solitons & Fractals, 2017, 104: 77-83.
+
+[2] Dong Li*, `Xingpeng Zhang`, Impulsive synchronization of fractional order chaotic systems with time-delay[J]. Neurocomputing, 2016, 216, 39-44. 
+
+[1] Dong Li, `Xingpeng Zhang`*, Adaptive impulsive synchronization of fractional order chaotic system with uncertain and unknown parameters[J]. Neurocomputing, 2015, 167: 165-171. 
 
 ### 中文
 ---
+[15] 杨明芬, 甘昀, `张兴鹏`*. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2024. (已录用) https://doi.org/10.19678/j.issn.1000-3428.0070021. (CCF 推荐 B 类中文期刊，通讯作者)
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+[14] `张兴鹏`*, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
 
-- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+[13] `张兴鹏`*, 何东, 王兵, 徐裴. 基于 YOLOv5s 的不安全行为检测[J]. 计算机应用与软件. 2024. (已录用). (北大核心)
 
-- 	汪圣涵, `唐健*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
+[12] 王兵, 徐裴, `张兴鹏`*. 傅里叶增强的无偏跨域目标检测研究[J]. 计算机科学与探索, 2024, 18(09): 2436-2448. (CCF 推荐 B 类中文期刊，通讯作者)
 
+[11] 肖斌, 甘昀, 汪敏, `张兴鹏`*, 王照星. 基于端口注意力与通道空间注意力的网络异常流量检测[J]. 计算机应用, 2024. 44(04): 1027-1034 (CCF 推荐 B 类中文期刊，通讯作者)
 
-- 	邓永乐, 王荣彪, `唐健`, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10. (EI期刊)  
-[[网页]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[下载]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
+[10] 肖斌, 罗浩, 张恒宾, 刘宏伟, `张兴鹏`*. 多尺度融合卷积的轻量化 Transformer无人机地物识别模型[J]. 郑州大学学报(理学版), 2024, 56(01): 32-39. (北大核心，通讯作者)
 
+[9] 肖斌, 郭经伟, `张兴鹏`*, 汪敏. 基于融合池化和注意力增强的细粒度视觉分类网络[J]. 模式识别与人工智能, 2023, 36(07): 661-670. (CCF 推荐 B 类中文期刊，通讯作者)
 
-- 	王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, `唐健`. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6. (EI期刊)  
-[[网页]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+[8]	杨海洋, `张兴鹏`*. 融合多通道图卷积网络的方面级情感分析模型[J]. 计算机工程, 2023. Accepted paper (CCF推荐B类中文期刊)
 
--	刘伯承, 段兆祺, 姜春, `唐健`, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5. (核心期刊)   
-[[网页]](https://dx.doi.org/10.11973/wsjc202211001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
+[7]	王兵，黄岗，`张兴鹏`*. 融合卷积特征的清晰边缘检测研究[J]. 计算机科学与探索, 2022. Accepted paper (CCF推荐B类中文期刊)
 
-- 	刘伯承, `唐健`, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+[6]	李紫君, 赵建卫, `张兴鹏`. 参数不确定不同阶混沌系统的自适应滑模同步[J]. 西南大学学报:自然科学版, 2020, 42(7): 130-138. (CSCD)
 
+[5]	李东, 李紫君, `张兴鹏`. 一类新型金融系统风险评估模型的同步控制[J]. 西南大学学报：自然科学版, 2017, 39(5): 99-105. (CSCD)
 
-- 	孟杰, 李二龙, `唐健`, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
+[4] 陈鸿琳, 张小洪, 杨丹, `张兴鹏`. 模糊脉冲方法研究分数阶混沌的同步[J]. 重庆工商大学学报(自然科学版). 2016, 33(06): 1-7.
 
+[3]	李东, `张兴鹏`, 胡玉婷, 杨媛媛. 参数不确定的不同分数阶的混沌系统的自适应同步[J]. 西南大学学报:自然科学版, 2015, 37(11): 69-76. (CSCD)
 
+[2] 胡玉婷, 李东, `张兴鹏`. 参数未知的分数阶混沌系统的自适应追踪控制[J]. 重庆工商大学学报(自然科学版). 2015, 32(03): 1-7.
 
-- 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
+[1] 査智高, `张兴鹏`, 陈飞飞, 孙书荣, 袁乃坤. 二阶中立型时滞微分方程的振动性[J]. 滨州学院学报, 2012, 28(03): 8-12.
 
 ### 专利
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
+[6] 余洋, 孙欣, 胡启军, 何乐平, 刘宏志, 蔡其杰, 白羽, 肖斌, 王兵, `张兴鹏`, 肖成玉, 唐钢, 刘娟, 吴方磊, 曾强. 一种基于EEG与视频信号融合的塔吊工人疲劳检测方法. 2025. 公开号：CN119498855A
 
+[5] 余洋, 蒋琳, 胡启军, 何乐平, 刘宏志, 蔡其杰, 白羽, 肖斌, 王兵, `张兴鹏`, 肖成玉, 唐钢, 刘娟, 曾强, 吴方磊. 一种基于图形引导选择性扫描的动作识别方法. 2025. 公开号：CN119360445A
 
+[4] 王兵, 赵春兰, 黎峰, `张兴鹏`, 蒋竞飞, 肖斌. 一种面向油气管道腐蚀速率预测的自动特征工程方法. 2024. 公开号：CN117407805A
 
+[3] 薛婧婷, 卢红炜, 曾露莎, 刘亮, 蒋永超, 龚捷, 张晓均, `张兴鹏`. 一种基于联盟链的政务数据安全多方计算方法. 2023. 公开号：CN116595569A
 
+[2] 肖斌, 谢珊, 刘丽艳, 肖逸军, 肖伊曼, 李欢, 秦光源, `张兴鹏`, 汪敏. 混合采样注意力机制的油井效率预测方法. 2023. 公开号：CN116128158A
 
-
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
-
-<span class='anchor' id='-xshy'></span>
-
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
-
-<span class='anchor' id='-gzsx'></span>
-
-# 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+[1] 薛婧婷, 修硕, 史凌杰, 罗抒琴, 张晓均, `张兴鹏`. 一种基于智能合约和分布式Elgamal算法的电子投票方法. 2022. 公开号：CN114978517A
