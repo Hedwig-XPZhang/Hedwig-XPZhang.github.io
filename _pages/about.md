@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-任职于西南石油大学 计算机与软件学院工作。博士毕业于重庆大学，大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、MICCAI、Neurocomputing、Chaos, Solitons & Fractals等国际期刊和学术会议上发表 30+ 篇学术论文。
+任职于西南石油大学 计算机与软件学院工作。博士毕业于重庆大学 大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、MICCAI、Neurocomputing、Chaos, Solitons & Fractals等国际期刊和学术会议上发表 30+ 篇学术论文。
 
 研究领域包括：
 - 计算机视觉
@@ -67,6 +67,8 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[34] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits Systems and Signal Processing. Accepted paper. （SCI 3区, JCR Q3, IF: 1.8）
+
 [33] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang`*. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
 
 [32] Xiaoyao Guo, Yan Chen*, Shipeng He, `Xingpeng Zhang`, Jing Zhou, Xucheng Bao. Multi-scale channel enhanced transformer for rock thin sections identification and sequence consistency optimization[J]. Computational Geosciences. 2025, 29(3): 1-19. （SCI 3区, JCR Q2, IF: 2.2）
