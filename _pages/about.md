@@ -67,7 +67,7 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[34] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits Systems and Signal Processing. Accepted paper. （SCI 3区, JCR Q3, IF: 1.8）
+[34] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. Accepted paper. （SCI 3区, JCR Q3, IF: 1.8）
 
 [33] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang`*. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
 
