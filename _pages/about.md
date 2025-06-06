@@ -77,7 +77,7 @@ redirect_from:
 
 [31] `Xingpeng Zhang`, Hongwei Liu, Bin Xiao*, Min Wang, Bing Wang. Multistage decomposition transformer network for predicting complex long time series of heavy oil parameters[J]. Applied Intelligence. 2025. 55(7): 677. （SCI 3区, JCR Q2, IF: 3.9）
 
-[30] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2025. (CCF A类推荐会议, Highlight paper)
+[30] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025. (CCF A类推荐会议, Highlight paper)
 
 [29] Xin Wang, Wang Zhang, Yuhong Wu, `Xingpeng Zhang`, Chao Wang, Huayi Zhan. Breaking the gap between label correlation and instance similarity via new multi-label contrastive learning[J]. Neurocomputing. 2025, 614: 128719. （SCI 2区, JCR Q1, IF: 5.5）
 
@@ -105,7 +105,7 @@ redirect_from:
 
 [17] Bing Wang, Hangbin Ye, `Xingpeng Zhang`*, Dong He, Xin Wang, Qiuli Wang, Chunlan Zhao, Object Correlation Matrix for Two-Stage Object Detection Network[C].  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2024: 9846-9850. (CCF B类推荐会议)
 
-[16] Ping Chen, `Xingpeng Zhang`, Chengtao Zhou, Dichao Fan, Peng Tu, Le Zhang, Yanlin Qian*. Learning Triangular Distribution in Visual World[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 11019-11029. (CCF A类推荐会议, 共同一作)
+[16] Ping Chen, `Xingpeng Zhang`, Chengtao Zhou, Dichao Fan, Peng Tu, Le Zhang, Yanlin Qian*. Learning Triangular Distribution in Visual World[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024: 11019-11029. (CCF A类推荐会议, 共同一作)
 
 [15] Wang Zhang, Xin Wang, Yuhong Wu, `Xingpeng Zhang`, Huayi Zhan. Enhancing Representation Learning with Label Association for Multi-Label Text Classification[C]. IEEE International Conference on Big Data (BigData). 2023: 1012-1021. (CCF C类推荐会议)
 
@@ -113,7 +113,7 @@ redirect_from:
 
 [13] Ruohuan Liu, Yazhi Yang, Bin Wang, `Xingpeng Zhang`. Prediction of Cement Slurry Density Based on AMIndRNN[J]. Academic Journal of Science and Technology. 2023, 7(1): 156-161.
 
-[12] Ping Chen, `Xingpeng Zhang`*, Ye Li, Ju Tao, Bin Xiao, Bing Wang, Zongjie Jiang, DAA: A Delta Age AdaIN operation for age estimation via binary code transformer[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 15836-15845. (CCF A类推荐会议)
+[12] Ping Chen, `Xingpeng Zhang`*, Ye Li, Ju Tao, Bin Xiao, Bing Wang, Zongjie Jiang, DAA: A Delta Age AdaIN operation for age estimation via binary code transformer[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023: 15836-15845. (CCF A类推荐会议)
 
 [11] Xin Wang, Chao Wang, Haiyang Yang, `Xingpeng Zhang`, Qi Shen, Kan Ji, Yuhong Wu, Huayi Zhan, KGAT: An Enhanced Graph-Based Model for Text Classification[C]. CCF International Conference on Natural Language Processing and Chinese Computing. 2022: 656-668. (CCF C类推荐会议)
 
@@ -139,35 +139,39 @@ redirect_from:
 
 ### 中文
 ---
-[15] 杨明芬, 甘昀, `张兴鹏`*. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2024. (已录用) https://doi.org/10.19678/j.issn.1000-3428.0070021. (CCF 推荐 B 类中文期刊，通讯作者)
+[17] 杨明芬, 甘昀, `张兴鹏`*. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. (已录用) https://doi.org/10.19678/j.issn.1000-3428.0070021. (CCF 推荐 B 类中文期刊，通讯)
 
-[14] `张兴鹏`*, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
+[16] `张兴鹏`*, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
 
-[13] `张兴鹏`*, 何东, 王兵, 徐裴. 基于 YOLOv5s 的不安全行为检测[J]. 计算机应用与软件. 2024. (已录用). (北大核心)
+[15] `张兴鹏`*, 何东, 王兵, 徐裴. 基于 YOLOv5s 的不安全行为检测[J]. 计算机应用与软件. 2024. (已录用). (北大核心)
 
-[12] 王兵, 徐裴, `张兴鹏`*. 傅里叶增强的无偏跨域目标检测研究[J]. 计算机科学与探索, 2024, 18(09): 2436-2448. (CCF 推荐 B 类中文期刊，通讯作者)
+[14] 王兵, 徐裴, `张兴鹏`*. 傅里叶增强的无偏跨域目标检测研究[J]. 计算机科学与探索, 2024, 18(09): 2436-2448. (CCF 推荐 B 类中文期刊，通讯)
 
-[11] 肖斌, 甘昀, 汪敏, `张兴鹏`*, 王照星. 基于端口注意力与通道空间注意力的网络异常流量检测[J]. 计算机应用, 2024. 44(04): 1027-1034 (CCF 推荐 B 类中文期刊，通讯作者)
+[13] 肖斌, 甘昀, 汪敏, `张兴鹏`*, 王照星. 基于端口注意力与通道空间注意力的网络异常流量检测[J]. 计算机应用, 2024. 44(04): 1027-1034 (CCF 推荐 B 类中文期刊，通讯)
 
-[10] 肖斌, 罗浩, 张恒宾, 刘宏伟, `张兴鹏`*. 多尺度融合卷积的轻量化 Transformer无人机地物识别模型[J]. 郑州大学学报(理学版), 2024, 56(01): 32-39. (北大核心，通讯作者)
+[12] 肖斌, 罗浩, 张恒宾, 刘宏伟, `张兴鹏`*. 多尺度融合卷积的轻量化 Transformer无人机地物识别模型[J]. 郑州大学学报(理学版), 2024, 56(01): 32-39. (北大核心，通讯)
 
-[9] 肖斌, 郭经伟, `张兴鹏`*, 汪敏. 基于融合池化和注意力增强的细粒度视觉分类网络[J]. 模式识别与人工智能, 2023, 36(07): 661-670. (CCF 推荐 B 类中文期刊，通讯作者)
+[11] 肖斌, 郭经伟, `张兴鹏`*, 汪敏. 基于融合池化和注意力增强的细粒度视觉分类网络[J]. 模式识别与人工智能, 2023, 36(07): 661-670. (CCF 推荐 B 类中文期刊，通讯)
 
-[8]	杨海洋, `张兴鹏`*. 融合多通道图卷积网络的方面级情感分析模型[J]. 计算机工程, 2023. Accepted paper (CCF推荐B类中文期刊)
+[10] 杨海洋, `张兴鹏`*. 融合多通道图卷积网络的方面级情感分析模型[J]. 计算机工程, 2023, 49(11): 61-69. (CCF推荐B类中文期刊)
 
-[7]	王兵，黄岗，`张兴鹏`*. 融合卷积特征的清晰边缘检测研究[J]. 计算机科学与探索, 2022. Accepted paper (CCF推荐B类中文期刊)
+[9]	王兵，黄岗，`张兴鹏`*. 融合卷积特征的清晰边缘检测研究[J]. 计算机科学与探索, 2023, 17(09): 2148-2160. (CCF推荐B类中文期刊)
 
-[6]	李紫君, 赵建卫, `张兴鹏`. 参数不确定不同阶混沌系统的自适应滑模同步[J]. 西南大学学报:自然科学版, 2020, 42(7): 130-138. (CSCD)
+[8] `张兴鹏`. 深度分类网络的结构优化研究[D]. 重庆大学. 博士学位论文.
 
-[5]	李东, 李紫君, `张兴鹏`. 一类新型金融系统风险评估模型的同步控制[J]. 西南大学学报：自然科学版, 2017, 39(5): 99-105. (CSCD)
+[7]	李紫君, 赵建卫*, `张兴鹏`. 参数不确定不同阶混沌系统的自适应滑模同步[J]. 西南大学学报:自然科学版, 2020, 42(7): 130-138. (CSCD)
 
-[4] 陈鸿琳, 张小洪, 杨丹, `张兴鹏`. 模糊脉冲方法研究分数阶混沌的同步[J]. 重庆工商大学学报(自然科学版). 2016, 33(06): 1-7.
+[6]	李东*, 李紫君, `张兴鹏`. 一类新型金融系统风险评估模型的同步控制[J]. 西南大学学报：自然科学版, 2017, 39(5): 99-105. (CSCD)
 
-[3]	李东, `张兴鹏`, 胡玉婷, 杨媛媛. 参数不确定的不同分数阶的混沌系统的自适应同步[J]. 西南大学学报:自然科学版, 2015, 37(11): 69-76. (CSCD)
+[5] 陈鸿琳, 张小洪, 杨丹*, `张兴鹏`. 模糊脉冲方法研究分数阶混沌的同步[J]. 重庆工商大学学报(自然科学版). 2016, 33(06): 1-7.
 
-[2] 胡玉婷, 李东, `张兴鹏`. 参数未知的分数阶混沌系统的自适应追踪控制[J]. 重庆工商大学学报(自然科学版). 2015, 32(03): 1-7.
+[4] `张兴鹏`. 不同阶混沌系统的同步研究[D]. 重庆大学. 硕士学位论文.
 
-[1] 査智高, `张兴鹏`, 陈飞飞, 孙书荣, 袁乃坤. 二阶中立型时滞微分方程的振动性[J]. 滨州学院学报, 2012, 28(03): 8-12.
+[3]	李东*, `张兴鹏`, 胡玉婷, 杨媛媛. 参数不确定的不同分数阶的混沌系统的自适应同步[J]. 西南大学学报:自然科学版, 2015, 37(11): 69-76. (CSCD)
+
+[2] 胡玉婷, 李东*, `张兴鹏`. 参数未知的分数阶混沌系统的自适应追踪控制[J]. 重庆工商大学学报(自然科学版). 2015, 32(03): 1-7.
+
+[1] 査智高, `张兴鹏`, 陈飞飞, 孙书荣*, 袁乃坤. 二阶中立型时滞微分方程的振动性[J]. 滨州学院学报, 2012, 28(03): 8-12.
 
 ### 专利
 ---
