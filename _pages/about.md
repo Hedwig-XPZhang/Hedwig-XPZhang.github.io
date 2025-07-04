@@ -47,7 +47,7 @@ redirect_from:
 
 [8] 国家重点研发计划: 城镇燃气系统事故隐患排查管控关键技术研究与示范 (2024YFC3810700). 主研.
 
-[7] 国家自然科学基金专项: 高相似背景下复杂物体的多域协同检测研究 (62441610). 主持.
+[7] 国家自然科学基金专项: 高相似背景下复杂物体的多域协同检测研究 (62441610). `主持`.
 
 [6] 西南石油大学自然科学“启航计划”项目: 融合分数阶图像增强理论的隐蔽物体实时检测研究 (2022QHZ023). 主持.
 
@@ -67,6 +67,8 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[36] Bin Xiao, Zehao Ge, `Xingpeng Zhang`*, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. Accepted paper. （SCI 4区, JCR Q2, IF: 2.4）
+
 [35] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. Accepted paper. （SCI 3区, JCR Q3, IF: 1.8）
 
 [34] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang`*. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
