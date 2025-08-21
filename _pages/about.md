@@ -67,6 +67,8 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). Accepted paper. (CCF A类推荐会议)
+
 [37] Bing Wang, Youming Zhang, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). Accepted paper. (CCF C类推荐会议)
 
 [36] Bin Xiao, Zehao Ge, `Xingpeng Zhang`*, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. Accepted paper. （SCI 4区, JCR Q2, IF: 2.4）
