@@ -67,6 +67,8 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[39] Bin Xiao, Yufei Cheng, Xing Lu, Yanxue Wu, Min Wang, `Xingpeng Zhang*`, Fine-Grained Visual Classification Network Based on Dual-Branch Feature Extraction and Multi-Feature Fusion[J]. Applied Intelligence. 2025. Accepted paper. （SCI 3区, JCR Q2, IF: 3.9）
+
 [38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). Accepted paper. (CCF A类推荐会议)
 
 [37] Bing Wang, Youming Zhang, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). Accepted paper. (CCF C类推荐会议)
@@ -127,21 +129,21 @@ redirect_from:
 
 [9] `Xingpeng Zhang`, Xiaohong Zhang*, Feature Recalibration in Deep Learning via Depthwise Squeeze and Refinement Operations[J]. IEEE Access, 2020, 8: 79046-79055. （SCI 3区, JCR Q2, IF: 3.4）
 
-[8] Yuangan Wang, `Xingpeng Zhang`, Liping Yang, Hong Huang, Adaptive synchronization of time delay chaotic systems with uncertain and unknown parameters via aperiodically intermittent control[J]. International Journal of Control, Automation and Systems, 2020, 18(3): 696-707. （SCI 3区, JCR Q2, IF: 2.5）
+[8] Yuangan Wang, `Xingpeng Zhang`, Liping Yang, Hong Huang, Adaptive synchronization of time delay chaotic systems with uncertain and unknown parameters via aperiodically intermittent control[J]. International Journal of Control, Automation and Systems, 2020, 18(3): 696-707. （SCI 3区, JCR Q2, IF: 2.9）
 
 [7] Qiuli Wang, `Xingpeng Zhang`, Wei Chen, Kun Wang, Xiaohong Zhang, Class-aware multi-window adversarial lung nodule synthesis conditioned on semantic features[C]. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI). 2020: 589-598. (CCF B类推荐会议)
 
-[6] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Dan Yang, Adaptive synchronization for a class of fractional order time-delay uncertain chaotic systems via fuzzy fractional order neural network[J]. International Journal of Control, Automation and Systems. 2019, 17(5): 1209-1220. （SCI 3区, JCR Q2, IF: 2.5）
+[6] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Dan Yang, Adaptive synchronization for a class of fractional order time-delay uncertain chaotic systems via fuzzy fractional order neural network[J]. International Journal of Control, Automation and Systems. 2019, 17(5): 1209-1220. （SCI 3区, JCR Q2, IF: 2.9）
 
 [5] `Xingpeng Zhang`, Xiaohong Zhang, Dong Li*, Adaptive impulsive synchronization for a class of fractional order complex chaotic systems[J]. Journal of Vibration and Control, 2019, 25(10): 1614-1628. （SCI 3区, JCR Q2, IF: 2.6）
 
 [4] `Xingpeng Zhang`, Sheng Huang, Xiaohong Zhang*, Wei Wang, Qiuli Wang, Dan Yang, Residual inception: a new module combining modified residual with inception to improve network performance[C]. IEEE International Conference on Image Processing (ICIP). 2018: 3039-3043. (CCF C类推荐会议)
 
-[3] `Xingpeng Zhang`, Dong Li*, Xiaohong Zhang, Adaptive fuzzy impulsive synchronization of chaotic systems with random parameters[J]. Chaos, Solitons & Fractals, 2017, 104: 77-83. （SCI 1区, JCR Q1, IF: 5.3）
+[3] `Xingpeng Zhang`, Dong Li*, Xiaohong Zhang, Adaptive fuzzy impulsive synchronization of chaotic systems with random parameters[J]. Chaos, Solitons & Fractals, 2017, 104: 77-83. （SCI 1区, JCR Q1, IF: 5.6）
 
-[2] Dong Li*, `Xingpeng Zhang`, Impulsive synchronization of fractional order chaotic systems with time-delay[J]. Neurocomputing, 2016, 216, 39-44. （SCI 2区, JCR Q1, IF: 5.5）
+[2] Dong Li*, `Xingpeng Zhang`, Impulsive synchronization of fractional order chaotic systems with time-delay[J]. Neurocomputing, 2016, 216, 39-44. （SCI 2区, JCR Q1, IF: 6.5）
 
-[1] Dong Li, `Xingpeng Zhang`*, Adaptive impulsive synchronization of fractional order chaotic system with uncertain and unknown parameters[J]. Neurocomputing, 2015, 167: 165-171. （SCI 2区, JCR Q1, IF: 5.5）
+[1] Dong Li, `Xingpeng Zhang`*, Adaptive impulsive synchronization of fractional order chaotic system with uncertain and unknown parameters[J]. Neurocomputing, 2015, 167: 165-171. （SCI 2区, JCR Q1, IF: 6.5）
 
 ### 中文
 ---
