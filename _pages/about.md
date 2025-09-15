@@ -67,17 +67,19 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[40] `Xingpeng Zhang*`, Peng Guo, Qiuli Wang, Kaixin Wang, Sijing Wu, Jing Xu, Yang Yu. Hybrid Attention Multi-scale Feature Aggregation for Efficient Nuclei Segmentation and Classification in H\&E-stained Images[J]. Multimedia Systems. 2025. Accepted paper. （SCI 4区, JCR Q2, IF: 3.1）
+
 [39] Bin Xiao, Yufei Cheng, Xing Lu, Yanxue Wu, Min Wang, `Xingpeng Zhang*`, Fine-Grained Visual Classification Network Based on Dual-Branch Feature Extraction and Multi-Feature Fusion[J]. Applied Intelligence. 2025. Accepted paper. （SCI 3区, JCR Q2, IF: 3.9）
 
 [38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). Accepted paper. (CCF A类推荐会议)
 
 [37] Bing Wang, Youming Zhang, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). Accepted paper. (CCF C类推荐会议)
 
-[36] Bin Xiao, Zehao Ge, `Xingpeng Zhang`*, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. Accepted paper. （SCI 4区, JCR Q2, IF: 2.4）
+[36] Bin Xiao, Zehao Ge, `Xingpeng Zhang*`, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. Accepted paper. （SCI 4区, JCR Q2, IF: 2.4）
 
 [35] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. Accepted paper. （SCI 3区, JCR Q3, IF: 1.8）
 
-[34] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang`*. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
+[34] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang*`. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
 
 [33] Xiaoyao Guo, Yan Chen*, Shipeng He, `Xingpeng Zhang`, Jing Zhou, Xucheng Bao. Multi-scale channel enhanced transformer for rock thin sections identification and sequence consistency optimization[J]. Computational Geosciences. 2025, 29(3): 1-19. （SCI 3区, JCR Q2, IF: 2.2）
 
@@ -89,39 +91,39 @@ redirect_from:
 
 [29] Xin Wang, Wang Zhang, Yuhong Wu, `Xingpeng Zhang`, Chao Wang, Huayi Zhan. Breaking the gap between label correlation and instance similarity via new multi-label contrastive learning[J]. Neurocomputing. 2025, 614: 128719. （SCI 2区, JCR Q1, IF: 5.5）
 
-[28] `Xingpeng Zhang`*, Jing Xu, Dong He, Kaixin Wang, Liping Wang. Lightweight multi-scale attention group fusion structure for nuclei segmentation[J]. The Journal of Supercomputing, 2025, 81(1), 199. （SCI 4区, JCR Q2, IF: 2.4）
+[28] `Xingpeng Zhang*`, Jing Xu, Dong He, Kaixin Wang, Liping Wang. Lightweight multi-scale attention group fusion structure for nuclei segmentation[J]. The Journal of Supercomputing, 2025, 81(1), 199. （SCI 4区, JCR Q2, IF: 2.4）
 
 [27] `Xingpeng Zhang`, Yunfeng Pan, Qiuli Wang, Mo Yang, Bin Xiao*. FourierFilter irregular attention U-Net with multi-receptive field fusion for cell nucleus segmentation[J]. Journal of Intelligent & Fuzzy Systems, 2024, 47(5-6): 471-485. （SCI 4区, JCR Q2, IF: 1.8）
 
-[26] `Xingpeng Zhang`*, Dong He, Adaptive impulsive synchronization for fractional-order quaternion-valued neural networks with different structures and unknown parameters[J]. Journal of Vibration and Control. 2024. 30(23-24): 5344-5357. （SCI 3区, JCR Q2, IF: 2.6）
+[26] `Xingpeng Zhang*`, Dong He, Adaptive impulsive synchronization for fractional-order quaternion-valued neural networks with different structures and unknown parameters[J]. Journal of Vibration and Control. 2024. 30(23-24): 5344-5357. （SCI 3区, JCR Q2, IF: 2.6）
 
-[25] `Xingpeng Zhang`*, Peng Guo, Multi-Attention Feature Fusion for Nuclei Segmentation and Classification[C]. Advances in Engineering Technology Research. 2024, 12: 545-545. (EI会议)
+[25] `Xingpeng Zhang*`, Peng Guo, Multi-Attention Feature Fusion for Nuclei Segmentation and Classification[C]. Advances in Engineering Technology Research. 2024, 12: 545-545. (EI会议)
 
 [24] Liping Wang, `Xingpeng Zhang`, Ping Chen, Dehao Zhou. Doctor simulator: Delta-Age-Sex-AdaIn enhancing bone age assessment through AdaIn style transfer[J]. Pediatric Radiology. 2024. 54(10): 1704-1712. （SCI 4区, JCR Q2, IF: 2.3）
 
-[23] `Xingpeng Zhang`*, Yuru Li, Peng Guo, Meilin Gao. Synchronization of heterogeneous discrete-time fractional-order quaternion-valued neural networks with time delay and parameter uncertainty using the impulsive method[J]. Journal of Vibration and Control. 2024. Doi: 10.1177/10775463241264869. （SCI 3区, JCR Q2, IF: 2.6）
+[23] `Xingpeng Zhang*`, Yuru Li, Peng Guo, Meilin Gao. Synchronization of heterogeneous discrete-time fractional-order quaternion-valued neural networks with time delay and parameter uncertainty using the impulsive method[J]. Journal of Vibration and Control. 2024. Doi: 10.1177/10775463241264869. （SCI 3区, JCR Q2, IF: 2.6）
 
-[22] Bing Wang, Xiaoling Yang, `Xingpeng Zhang`*, Chunlan Zhao, Chunhao Wang, Weishan Feng. Recommendation Algorithm Based on Refined Knowledge Graphs and Contrastive Learning[C]. International Conference on Knowledge Science, Engineering and Management (KSEM). 2024: 205-217. (CCF C类推荐会议)
+[22] Bing Wang, Xiaoling Yang, `Xingpeng Zhang*`, Chunlan Zhao, Chunhao Wang, Weishan Feng. Recommendation Algorithm Based on Refined Knowledge Graphs and Contrastive Learning[C]. International Conference on Knowledge Science, Engineering and Management (KSEM). 2024: 205-217. (CCF C类推荐会议)
 
-[21] Bing Wang, Chunhao Wang, `Xingpeng Zhang`*, Chunlan Zhao, Xiaoling Yang, Kuan Guo. Multi-table Question Answering Method Based on Correlation Evaluation and Precomputed Cube[C]. International Conference on Knowledge Science, Engineering and Management (KSEM). 2024: 393-405. (CCF C类推荐会议)
+[21] Bing Wang, Chunhao Wang, `Xingpeng Zhang*`, Chunlan Zhao, Xiaoling Yang, Kuan Guo. Multi-table Question Answering Method Based on Correlation Evaluation and Precomputed Cube[C]. International Conference on Knowledge Science, Engineering and Management (KSEM). 2024: 393-405. (CCF C类推荐会议)
 
-[20] `Xingpeng Zhang`*, Zheng Li, Bin Xiao, Bing Wang. Multi-axis frequency domain residual UNet for pore identification in deep shale scanning electron microscopy images[C]. International Joint Conference on Neural Networks (IJCNN), 2024: 1-8. (CCF C类推荐会议)
+[20] `Xingpeng Zhang*`, Zheng Li, Bin Xiao, Bing Wang. Multi-axis frequency domain residual UNet for pore identification in deep shale scanning electron microscopy images[C]. International Joint Conference on Neural Networks (IJCNN), 2024: 1-8. (CCF C类推荐会议)
 
-[19] `Xingpeng Zhang`*, Meilin Gao, Guohai Gao, Xin Wang, Qiuli Wang, Edge-Guided Multilevel Feature Fusion Network for Lightweight Camouflaged Object Detection[C]. International Joint Conference on Neural Networks (IJCNN), 2024: 1-7. (CCF C类推荐会议)
+[19] `Xingpeng Zhang*`, Meilin Gao, Guohai Gao, Xin Wang, Qiuli Wang, Edge-Guided Multilevel Feature Fusion Network for Lightweight Camouflaged Object Detection[C]. International Joint Conference on Neural Networks (IJCNN), 2024: 1-7. (CCF C类推荐会议)
 
-[18] `Xingpeng Zhang`*, Yuru Li, Qiuli Wang, Sijing Wu, MFI-CD: a lightweight siamese network with multidimensional feature interaction for change detection[J]. International Journal of Remote Sensing, 2024, 45(8): 2548-2566. （SCI 3区, JCR Q2, IF: 3.3）
+[18] `Xingpeng Zhang*`, Yuru Li, Qiuli Wang, Sijing Wu, MFI-CD: a lightweight siamese network with multidimensional feature interaction for change detection[J]. International Journal of Remote Sensing, 2024, 45(8): 2548-2566. （SCI 3区, JCR Q2, IF: 3.3）
 
-[17] Bing Wang, Hangbin Ye, `Xingpeng Zhang`*, Dong He, Xin Wang, Qiuli Wang, Chunlan Zhao, Object Correlation Matrix for Two-Stage Object Detection Network[C].  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2024: 9846-9850. (CCF B类推荐会议)
+[17] Bing Wang, Hangbin Ye, `Xingpeng Zhang*`, Dong He, Xin Wang, Qiuli Wang, Chunlan Zhao, Object Correlation Matrix for Two-Stage Object Detection Network[C].  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2024: 9846-9850. (CCF B类推荐会议)
 
 [16] Ping Chen, `Xingpeng Zhang`, Chengtao Zhou, Dichao Fan, Peng Tu, Le Zhang, Yanlin Qian*. Learning Triangular Distribution in Visual World[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024: 11019-11029. (CCF A类推荐会议, 共同一作)
 
 [15] Wang Zhang, Xin Wang, Yuhong Wu, `Xingpeng Zhang`, Huayi Zhan. Enhancing Representation Learning with Label Association for Multi-Label Text Classification[C]. IEEE International Conference on Big Data (BigData). 2023: 1012-1021. (CCF C类推荐会议)
 
-[14] Bin Xiao, Yunfeng Pan, `Xingpeng Zhang`*. DA-UNet: Deformable Attention U-Net for Nucleus Segmentation[C]. International Conference on Computer, Vision and Intelligent Technology. 2023: 1-5. (EI 会议)
+[14] Bin Xiao, Yunfeng Pan, `Xingpeng Zhang*`. DA-UNet: Deformable Attention U-Net for Nucleus Segmentation[C]. International Conference on Computer, Vision and Intelligent Technology. 2023: 1-5. (EI 会议)
 
 [13] Ruohuan Liu, Yazhi Yang, Bin Wang, `Xingpeng Zhang`. Prediction of Cement Slurry Density Based on AMIndRNN[J]. Academic Journal of Science and Technology. 2023, 7(1): 156-161.
 
-[12] Ping Chen, `Xingpeng Zhang`*, Ye Li, Ju Tao, Bin Xiao, Bing Wang, Zongjie Jiang, DAA: A Delta Age AdaIN operation for age estimation via binary code transformer[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023: 15836-15845. (CCF A类推荐会议)
+[12] Ping Chen, `Xingpeng Zhang*`, Ye Li, Ju Tao, Bin Xiao, Bing Wang, Zongjie Jiang, DAA: A Delta Age AdaIN operation for age estimation via binary code transformer[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023: 15836-15845. (CCF A类推荐会议)
 
 [11] Xin Wang, Chao Wang, Haiyang Yang, `Xingpeng Zhang`, Qi Shen, Kan Ji, Yuhong Wu, Huayi Zhan, KGAT: An Enhanced Graph-Based Model for Text Classification[C]. CCF International Conference on Natural Language Processing and Chinese Computing. 2022: 656-668. (CCF C类推荐会议)
 
@@ -143,27 +145,27 @@ redirect_from:
 
 [2] Dong Li*, `Xingpeng Zhang`, Impulsive synchronization of fractional order chaotic systems with time-delay[J]. Neurocomputing, 2016, 216, 39-44. （SCI 2区, JCR Q1, IF: 6.5）
 
-[1] Dong Li, `Xingpeng Zhang`*, Adaptive impulsive synchronization of fractional order chaotic system with uncertain and unknown parameters[J]. Neurocomputing, 2015, 167: 165-171. （SCI 2区, JCR Q1, IF: 6.5）
+[1] Dong Li, `Xingpeng Zhang*`, Adaptive impulsive synchronization of fractional order chaotic system with uncertain and unknown parameters[J]. Neurocomputing, 2015, 167: 165-171. （SCI 2区, JCR Q1, IF: 6.5）
 
 ### 中文
 ---
-[17] 杨明芬, 甘昀, `张兴鹏`*. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. (已录用) https://doi.org/10.19678/j.issn.1000-3428.0070021. (CCF 推荐 B 类中文期刊，通讯)
+[17] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. (已录用) https://doi.org/10.19678/j.issn.1000-3428.0070021. (CCF 推荐 B 类中文期刊，通讯)
 
-[16] `张兴鹏`*, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
+[16] `张兴鹏*`, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
 
-[15] `张兴鹏`*, 何东, 王兵, 徐裴. 基于 YOLOv5s 的不安全行为检测[J]. 计算机应用与软件. 2024. (已录用). (北大核心)
+[15] `张兴鹏*`, 何东, 王兵, 徐裴. 基于 YOLOv5s 的不安全行为检测[J]. 计算机应用与软件. 2024. (已录用). (北大核心)
 
-[14] 王兵, 徐裴, `张兴鹏`*. 傅里叶增强的无偏跨域目标检测研究[J]. 计算机科学与探索, 2024, 18(09): 2436-2448. (CCF 推荐 B 类中文期刊，通讯)
+[14] 王兵, 徐裴, `张兴鹏*`. 傅里叶增强的无偏跨域目标检测研究[J]. 计算机科学与探索, 2024, 18(09): 2436-2448. (CCF 推荐 B 类中文期刊，通讯)
 
-[13] 肖斌, 甘昀, 汪敏, `张兴鹏`*, 王照星. 基于端口注意力与通道空间注意力的网络异常流量检测[J]. 计算机应用, 2024. 44(04): 1027-1034 (CCF 推荐 B 类中文期刊，通讯)
+[13] 肖斌, 甘昀, 汪敏, `张兴鹏*`, 王照星. 基于端口注意力与通道空间注意力的网络异常流量检测[J]. 计算机应用, 2024. 44(04): 1027-1034 (CCF 推荐 B 类中文期刊，通讯)
 
-[12] 肖斌, 罗浩, 张恒宾, 刘宏伟, `张兴鹏`*. 多尺度融合卷积的轻量化 Transformer无人机地物识别模型[J]. 郑州大学学报(理学版), 2024, 56(01): 32-39. (北大核心，通讯)
+[12] 肖斌, 罗浩, 张恒宾, 刘宏伟, `张兴鹏*`. 多尺度融合卷积的轻量化 Transformer无人机地物识别模型[J]. 郑州大学学报(理学版), 2024, 56(01): 32-39. (北大核心，通讯)
 
-[11] 肖斌, 郭经伟, `张兴鹏`*, 汪敏. 基于融合池化和注意力增强的细粒度视觉分类网络[J]. 模式识别与人工智能, 2023, 36(07): 661-670. (CCF 推荐 B 类中文期刊，通讯)
+[11] 肖斌, 郭经伟, `张兴鹏*`, 汪敏. 基于融合池化和注意力增强的细粒度视觉分类网络[J]. 模式识别与人工智能, 2023, 36(07): 661-670. (CCF 推荐 B 类中文期刊，通讯)
 
-[10] 杨海洋, `张兴鹏`*. 融合多通道图卷积网络的方面级情感分析模型[J]. 计算机工程, 2023, 49(11): 61-69. (CCF推荐B类中文期刊)
+[10] 杨海洋, `张兴鹏*`. 融合多通道图卷积网络的方面级情感分析模型[J]. 计算机工程, 2023, 49(11): 61-69. (CCF推荐B类中文期刊)
 
-[9]	王兵，黄岗，`张兴鹏`*. 融合卷积特征的清晰边缘检测研究[J]. 计算机科学与探索, 2023, 17(09): 2148-2160. (CCF推荐B类中文期刊)
+[9]	王兵，黄岗，`张兴鹏*`. 融合卷积特征的清晰边缘检测研究[J]. 计算机科学与探索, 2023, 17(09): 2148-2160. (CCF推荐B类中文期刊)
 
 [8] `张兴鹏`. 深度分类网络的结构优化研究[D]. 重庆大学. 2020. 博士学位论文.
 
@@ -183,6 +185,8 @@ redirect_from:
 
 ### 专利
 ---
+[7] 陈雁, 曹婧, 魏峰, 易雨, 许森海, 徐超, 刘创, 李晨, `张兴鹏`, 曾星杰, 张舒, 焦世祥, 尹红. 一种高效级联多阶段自适应阈值钓鱼检测方法. 2025. 公开号： CN120034399A
+
 [6] 余洋, 孙欣, 胡启军, 何乐平, 刘宏志, 蔡其杰, 白羽, 肖斌, 王兵, `张兴鹏`, 肖成玉, 唐钢, 刘娟, 吴方磊, 曾强. 一种基于EEG与视频信号融合的塔吊工人疲劳检测方法. 2025. 公开号：CN119498855A
 
 [5] 余洋, 蒋琳, 胡启军, 何乐平, 刘宏志, 蔡其杰, 白羽, 肖斌, 王兵, `张兴鹏`, 肖成玉, 唐钢, 刘娟, 曾强, 吴方磊. 一种基于图形引导选择性扫描的动作识别方法. 2025. 公开号：CN119360445A
