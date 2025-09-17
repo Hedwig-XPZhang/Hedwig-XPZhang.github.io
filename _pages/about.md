@@ -75,9 +75,9 @@ redirect_from:
 
 [37] Bing Wang, Youming Zhang, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). Accepted paper. (CCF C类推荐会议)
 
-[36] Bin Xiao, Zehao Ge, `Xingpeng Zhang*`, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. Accepted paper. （SCI 4区, JCR Q2, IF: 2.4）
+[36] Bin Xiao, Zehao Ge, `Xingpeng Zhang*`, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. 2025, 81(11): 1167. （SCI 4区, JCR Q2, IF: 2.4）
 
-[35] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. Accepted paper. （SCI 3区, JCR Q3, IF: 1.8）
+[35] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. 2025. Accepted paper. （SCI 3区, JCR Q3, IF: 1.8）
 
 [34] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang*`. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
 
@@ -93,15 +93,15 @@ redirect_from:
 
 [28] `Xingpeng Zhang*`, Jing Xu, Dong He, Kaixin Wang, Liping Wang. Lightweight multi-scale attention group fusion structure for nuclei segmentation[J]. The Journal of Supercomputing, 2025, 81(1), 199. （SCI 4区, JCR Q2, IF: 2.4）
 
-[27] `Xingpeng Zhang`, Yunfeng Pan, Qiuli Wang, Mo Yang, Bin Xiao*. FourierFilter irregular attention U-Net with multi-receptive field fusion for cell nucleus segmentation[J]. Journal of Intelligent & Fuzzy Systems, 2024, 47(5-6): 471-485. （SCI 4区, JCR Q2, IF: 1.8）
+[27] `Xingpeng Zhang*`, Yuru Li, Peng Guo, Meilin Gao. Synchronization of heterogeneous discrete-time fractional-order quaternion-valued neural networks with time delay and parameter uncertainty using the impulsive method[J]. Journal of Vibration and Control. 2025, 31(15-16): 3140-3155. （SCI 3区, JCR Q2, IF: 2.6）
 
-[26] `Xingpeng Zhang*`, Dong He, Adaptive impulsive synchronization for fractional-order quaternion-valued neural networks with different structures and unknown parameters[J]. Journal of Vibration and Control. 2024. 30(23-24): 5344-5357. （SCI 3区, JCR Q2, IF: 2.6）
+[26] `Xingpeng Zhang`, Yunfeng Pan, Qiuli Wang, Mo Yang, Bin Xiao*. FourierFilter irregular attention U-Net with multi-receptive field fusion for cell nucleus segmentation[J]. Journal of Intelligent & Fuzzy Systems, 2024, 47(5-6): 471-485. （SCI 4区, JCR Q2, IF: 1.8）
 
-[25] `Xingpeng Zhang*`, Peng Guo, Multi-Attention Feature Fusion for Nuclei Segmentation and Classification[C]. Advances in Engineering Technology Research. 2024, 12: 545-545. (EI会议)
+[25] `Xingpeng Zhang*`, Dong He, Adaptive impulsive synchronization for fractional-order quaternion-valued neural networks with different structures and unknown parameters[J]. Journal of Vibration and Control. 2024. 30(23-24): 5344-5357. （SCI 3区, JCR Q2, IF: 2.6）
 
-[24] Liping Wang, `Xingpeng Zhang`, Ping Chen, Dehao Zhou. Doctor simulator: Delta-Age-Sex-AdaIn enhancing bone age assessment through AdaIn style transfer[J]. Pediatric Radiology. 2024. 54(10): 1704-1712. （SCI 4区, JCR Q2, IF: 2.3）
+[24] `Xingpeng Zhang*`, Peng Guo, Multi-Attention Feature Fusion for Nuclei Segmentation and Classification[C]. Advances in Engineering Technology Research. 2024, 12: 545-545. (EI会议)
 
-[23] `Xingpeng Zhang*`, Yuru Li, Peng Guo, Meilin Gao. Synchronization of heterogeneous discrete-time fractional-order quaternion-valued neural networks with time delay and parameter uncertainty using the impulsive method[J]. Journal of Vibration and Control. 2024. Doi: 10.1177/10775463241264869. （SCI 3区, JCR Q2, IF: 2.6）
+[23] Liping Wang, `Xingpeng Zhang`, Ping Chen, Dehao Zhou. Doctor simulator: Delta-Age-Sex-AdaIn enhancing bone age assessment through AdaIn style transfer[J]. Pediatric Radiology. 2024. 54(10): 1704-1712. （SCI 4区, JCR Q2, IF: 2.3）
 
 [22] Bing Wang, Xiaoling Yang, `Xingpeng Zhang*`, Chunlan Zhao, Chunhao Wang, Weishan Feng. Recommendation Algorithm Based on Refined Knowledge Graphs and Contrastive Learning[C]. International Conference on Knowledge Science, Engineering and Management (KSEM). 2024: 205-217. (CCF C类推荐会议)
 
