@@ -67,9 +67,9 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[40] `Xingpeng Zhang*`, Peng Guo, Qiuli Wang, Kaixin Wang, Sijing Wu, Jing Xu, Yang Yu. Hybrid Attention Multi-scale Feature Aggregation for Efficient Nuclei Segmentation and Classification in H\&E-stained Images[J]. Multimedia Systems. 2025. Accepted paper. （SCI 4区, JCR Q2, IF: 3.1）
+[40] `Xingpeng Zhang*`, Peng Guo, Qiuli Wang, Kaixin Wang, Sijing Wu, Jing Xu, Yang Yu. Hybrid Attention Multi-scale Feature Aggregation for Efficient Nuclei Segmentation and Classification in H\&E-stained Images[J]. Multimedia Systems. 2025. 31: 446. （SCI 4区, JCR Q2, IF: 3.1）
 
-[39] Bin Xiao, Yufei Cheng, Xing Lu, Yanxue Wu, Min Wang, `Xingpeng Zhang*`, Fine-Grained Visual Classification Network Based on Dual-Branch Feature Extraction and Multi-Feature Fusion[J]. Applied Intelligence. 2025. Accepted paper. （SCI 3区, JCR Q2, IF: 3.9）
+[39] Bin Xiao, Yufei Cheng, Xing Lu, Yanxue Wu, Min Wang, `Xingpeng Zhang*`, Fine-Grained Visual Classification Network Based on Dual-Branch Feature Extraction and Multi-Feature Fusion[J]. Applied Intelligence. 2025. 55: 1023. （SCI 2区, JCR Q2, IF: 3.9）
 
 [38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). Accepted paper. (CCF A类推荐会议)
 
@@ -85,7 +85,7 @@ redirect_from:
 
 [32] Bing Wang, Chaoqi Cai*, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Youming Zhang. MapsTSF: efficient traffic prediction via hybrid Mamba 2-transformer spatiotemporal modeling and cross adaptive periodic sparse forecasting[J]. The Journal of Supercomputing. 2025, 81(7): 1-31. （SCI 4区, JCR Q2, IF: 2.4）
 
-[31] `Xingpeng Zhang`, Hongwei Liu, Bin Xiao*, Min Wang, Bing Wang. Multistage decomposition transformer network for predicting complex long time series of heavy oil parameters[J]. Applied Intelligence. 2025. 55(7): 677. （SCI 3区, JCR Q2, IF: 3.9）
+[31] `Xingpeng Zhang`, Hongwei Liu, Bin Xiao*, Min Wang, Bing Wang. Multistage decomposition transformer network for predicting complex long time series of heavy oil parameters[J]. Applied Intelligence. 2025. 55(7): 677. （SCI 2区, JCR Q2, IF: 3.9）
 
 [30] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025. (CCF A类推荐会议, Highlight paper)
 
@@ -149,7 +149,7 @@ redirect_from:
 
 ### 中文
 ---
-[17] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. (已录用) https://doi.org/10.19678/j.issn.1000-3428.0070021. (CCF 推荐 B 类中文期刊，通讯)
+[17] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. 51(09): 192-200. (CCF 推荐 B 类中文期刊，通讯)
 
 [16] `张兴鹏*`, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
 
