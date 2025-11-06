@@ -67,17 +67,19 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[41] Qiuli Wang, Xiaoming Li, Jie Chen, Yongxu Liu, Xingpeng Zhang, Chen Liu, Wei Chen. From Prompt Optimization to Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports[J]. arXiv.2510.23008. 2025
+
 [40] `Xingpeng Zhang*`, Peng Guo, Qiuli Wang, Kaixin Wang, Sijing Wu, Jing Xu, Yang Yu. Hybrid Attention Multi-scale Feature Aggregation for Efficient Nuclei Segmentation and Classification in H\&E-stained Images[J]. Multimedia Systems. 2025. 31: 446. （SCI 4区, JCR Q2, IF: 3.1）
 
 [39] Bin Xiao, Yufei Cheng, Xing Lu, Yanxue Wu, Min Wang, `Xingpeng Zhang*`, Fine-Grained Visual Classification Network Based on Dual-Branch Feature Extraction and Multi-Feature Fusion[J]. Applied Intelligence. 2025. 55: 1023. （SCI 2区, JCR Q2, IF: 3.9）
 
-[38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). Accepted paper. (CCF A类推荐会议)
+[38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). 2025: 10230-10240. (`CCF A类推荐会议`)
 
 [37] Bing Wang, Youming Zhang, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). Accepted paper. (CCF C类推荐会议)
 
 [36] Bin Xiao, Zehao Ge, `Xingpeng Zhang*`, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. 2025, 81(11): 1167. （SCI 4区, JCR Q2, IF: 2.4）
 
-[35] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. 2025. Accepted paper. （SCI 3区, JCR Q3, IF: 1.8）
+[35] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. 2025, 44: 8691-8711. （SCI 3区, JCR Q3, IF: 1.8）
 
 [34] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang*`. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
 
@@ -87,7 +89,7 @@ redirect_from:
 
 [31] `Xingpeng Zhang`, Hongwei Liu, Bin Xiao*, Min Wang, Bing Wang. Multistage decomposition transformer network for predicting complex long time series of heavy oil parameters[J]. Applied Intelligence. 2025. 55(7): 677. （SCI 2区, JCR Q2, IF: 3.9）
 
-[30] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025. (CCF A类推荐会议, Highlight paper)
+[30] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025. (`CCF A类推荐会议, Highlight paper`)
 
 [29] Xin Wang, Wang Zhang, Yuhong Wu, `Xingpeng Zhang`, Chao Wang, Huayi Zhan. Breaking the gap between label correlation and instance similarity via new multi-label contrastive learning[J]. Neurocomputing. 2025, 614: 128719. （SCI 2区, JCR Q1, IF: 5.5）
 
@@ -115,7 +117,7 @@ redirect_from:
 
 [17] Bing Wang, Hangbin Ye, `Xingpeng Zhang*`, Dong He, Xin Wang, Qiuli Wang, Chunlan Zhao, Object Correlation Matrix for Two-Stage Object Detection Network[C].  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2024: 9846-9850. (CCF B类推荐会议)
 
-[16] Ping Chen, `Xingpeng Zhang`, Chengtao Zhou, Dichao Fan, Peng Tu, Le Zhang, Yanlin Qian*. Learning Triangular Distribution in Visual World[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024: 11019-11029. (CCF A类推荐会议, 共同一作)
+[16] Ping Chen, `Xingpeng Zhang`, Chengtao Zhou, Dichao Fan, Peng Tu, Le Zhang, Yanlin Qian*. Learning Triangular Distribution in Visual World[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024: 11019-11029. (`CCF A类推荐会议`, 共同一作)
 
 [15] Wang Zhang, Xin Wang, Yuhong Wu, `Xingpeng Zhang`, Huayi Zhan. Enhancing Representation Learning with Label Association for Multi-Label Text Classification[C]. IEEE International Conference on Big Data (BigData). 2023: 1012-1021. (CCF C类推荐会议)
 
@@ -123,7 +125,7 @@ redirect_from:
 
 [13] Ruohuan Liu, Yazhi Yang, Bin Wang, `Xingpeng Zhang`. Prediction of Cement Slurry Density Based on AMIndRNN[J]. Academic Journal of Science and Technology. 2023, 7(1): 156-161.
 
-[12] Ping Chen, `Xingpeng Zhang*`, Ye Li, Ju Tao, Bin Xiao, Bing Wang, Zongjie Jiang, DAA: A Delta Age AdaIN operation for age estimation via binary code transformer[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023: 15836-15845. (CCF A类推荐会议)
+[12] Ping Chen, `Xingpeng Zhang*`, Ye Li, Ju Tao, Bin Xiao, Bing Wang, Zongjie Jiang, DAA: A Delta Age AdaIN operation for age estimation via binary code transformer[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023: 15836-15845. (`CCF A类推荐会议`)
 
 [11] Xin Wang, Chao Wang, Haiyang Yang, `Xingpeng Zhang`, Qi Shen, Kan Ji, Yuhong Wu, Huayi Zhan, KGAT: An Enhanced Graph-Based Model for Text Classification[C]. CCF International Conference on Natural Language Processing and Chinese Computing. 2022: 656-668. (CCF C类推荐会议)
 
@@ -185,6 +187,8 @@ redirect_from:
 
 ### 专利
 ---
+[8] 陈雁, 石诚, 魏峰, `张兴鹏`, 易雨, 张朋, 熊斌, 曾星杰, 尹红, 王骞, 张翀. 一种基于多视图特征融合的图像相似度计算方法. 2025. 公开号：CN120726353A
+
 [7] 陈雁, 曹婧, 魏峰, 易雨, 许森海, 徐超, 刘创, 李晨, `张兴鹏`, 曾星杰, 张舒, 焦世祥, 尹红. 一种高效级联多阶段自适应阈值钓鱼检测方法. 2025. 公开号： CN120034399A
 
 [6] 余洋, 孙欣, 胡启军, 何乐平, 刘宏志, 蔡其杰, 白羽, 肖斌, 王兵, `张兴鹏`, 肖成玉, 唐钢, 刘娟, 吴方磊, 曾强. 一种基于EEG与视频信号融合的塔吊工人疲劳检测方法. 2025. 公开号：CN119498855A
