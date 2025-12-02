@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-任职于西南石油大学 计算机与软件学院。博士毕业于重庆大学 大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、MICCAI、Neurocomputing、Chaos, Solitons & Fractals等国际期刊和学术会议上发表 30+ 篇学术论文。
+任职于西南石油大学 计算机与软件学院。博士毕业于重庆大学 大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、EMNLP、MICCAI、Neurocomputing、Chaos, Solitons & Fractals、Applied Intelligence等国际期刊和学术会议上发表 40+ 篇学术论文。
 
 研究领域包括：
 - 计算机视觉
@@ -27,7 +27,6 @@ redirect_from:
 - 自然语言处理
 - 非线性动力系统
   
-
 
 <span class='anchor' id='-xl'></span>
 
@@ -67,7 +66,9 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[41] Qiuli Wang, Xiaoming Li, Jie Chen, Yongxu Liu, Xingpeng Zhang, Chen Liu, Wei Chen. From Prompt Optimization to Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports[J]. arXiv.2510.23008. 2025
+[42] Bin Xiao, Junhao Wen, Xianjie He, Yanxue Wu, `Xingpeng Zhang*`, Shengtong Hu. PRepDETR: A Real-Time Detection Transformer with Partial Convolutions and Efficient Cross-Scale Feature Fusion[J]. Journal of Real-time Image Processing. 2025 Accepted paper. (SCI 4区, IF: 3)
+
+[41] Qiuli Wang, Xiaoming Li, Jie Chen, Yongxu Liu, `Xingpeng Zhang`, Chen Liu, Wei Chen. From Prompt Optimization to Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports[J]. arXiv.2510.23008. 2025
 
 [40] `Xingpeng Zhang*`, Peng Guo, Qiuli Wang, Kaixin Wang, Sijing Wu, Jing Xu, Yang Yu. Hybrid Attention Multi-scale Feature Aggregation for Efficient Nuclei Segmentation and Classification in H\&E-stained Images[J]. Multimedia Systems. 2025. 31: 446. （SCI 4区, JCR Q2, IF: 3.1）
 
@@ -202,3 +203,10 @@ redirect_from:
 [2] 肖斌, 谢珊, 刘丽艳, 肖逸军, 肖伊曼, 李欢, 秦光源, `张兴鹏`, 汪敏. 混合采样注意力机制的油井效率预测方法. 2023. 公开号：CN116128158A
 
 [1] 薛婧婷, 修硕, 史凌杰, 罗抒琴, 张晓均, `张兴鹏`. 一种基于智能合约和分布式Elgamal算法的电子投票方法. 2022. 公开号：CN114978517A
+
+### 毕业学生
+Meilin Gao (Graduated in 2025, Work@四川银行，成都)
+Peng Guo (Graduated in 2025, Work@同方赛威讯信息技术有限公司，成都)
+Yuru Li (Graduated in 2025, Work@中国人民银行，自贡)
+
+Dong He (Graduated in 2024, Work@北京世纪好未来教育科技有限公司，北京)
