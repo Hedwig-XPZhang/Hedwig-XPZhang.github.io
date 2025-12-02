@@ -204,6 +204,10 @@ redirect_from:
 
 [1] 薛婧婷, 修硕, 史凌杰, 罗抒琴, 张晓均, `张兴鹏`. 一种基于智能合约和分布式Elgamal算法的电子投票方法. 2022. 公开号：CN114978517A
 
+
+
+<span class='anchor' id='-lwzl'></span>
+
 ### 毕业学生
 Meilin Gao (Graduated in 2025, Work@四川银行，成都)
 Peng Guo (Graduated in 2025, Work@同方赛威讯信息技术有限公司，成都)
