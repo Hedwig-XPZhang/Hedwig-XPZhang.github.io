@@ -66,7 +66,9 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[42] Bin Xiao, Junhao Wen, Xianjie He, Yanxue Wu, `Xingpeng Zhang*`, Shengtong Hu. PRepDETR: A Real-Time Detection Transformer with Partial Convolutions and Efficient Cross-Scale Feature Fusion[J]. Journal of Real-time Image Processing. 2025 Accepted paper. (SCI 4区, IF: 3)
+[43] Bin Xiao, Jiahang Xin, `Xingpeng Zhang*`, Junchao Wen, Yufei Cheng, Fuyuan Wei. Skin Lesion Segmentation Model with Large Receptive Fields and Multi-Scale Features[C]. International Conference on Virtual Reality and Visualization (ICVRV). 2025, Accepted paper. (CCF C类会议)
+
+[42] Bin Xiao, Junhao Wen, Xianjie He, Yanxue Wu, `Xingpeng Zhang*`, Shengtong Hu. PRepDETR: A Real-Time Detection Transformer with Partial Convolutions and Efficient Cross-Scale Feature Fusion[J]. Journal of Real-time Image Processing. 2025, Accepted paper. (SCI 4区, IF: 3)
 
 [41] Qiuli Wang, Xiaoming Li, Jie Chen, Yongxu Liu, `Xingpeng Zhang`, Chen Liu, Wei Chen. From Prompt Optimization to Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports[J]. arXiv.2510.23008. 2025
 
