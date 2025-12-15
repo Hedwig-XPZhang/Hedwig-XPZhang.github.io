@@ -76,13 +76,13 @@ redirect_from:
 
 [39] Bin Xiao, Yufei Cheng, Xing Lu, Yanxue Wu, Min Wang, `Xingpeng Zhang*`, Fine-Grained Visual Classification Network Based on Dual-Branch Feature Extraction and Multi-Feature Fusion[J]. Applied Intelligence. 2025. 55: 1023. （SCI 2区, JCR Q2, IF: 3.9）
 
-[38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). 2025: 10230-10240. (`CCF A类推荐会议`)
+[38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). 2025: 10230-10240. (`CCF B类推荐会议`)
 
-[37] Bing Wang, Youming Zhang, `Xingpeng Zhang`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). Accepted paper. (CCF C类推荐会议)
+[37] Bing Wang, Youming Zhang, `Xingpeng Zhang*`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). Accepted paper. (CCF C类推荐会议)
 
 [36] Bin Xiao, Zehao Ge, `Xingpeng Zhang*`, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. 2025, 81(11): 1167. （SCI 4区, JCR Q2, IF: 2.4）
 
-[35] `Xingpeng Zhang`*, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. 2025, 44: 8691-8711. （SCI 3区, JCR Q3, IF: 1.8）
+[35] `Xingpeng Zhang*`, Sijing Wu, Qiuli Wang, Kaixin Wang. EffRetMamba: A Light-weight Mamba for Low-light Image Enhancement[J]. Circuits, Systems & Signal, Processing. 2025, 44: 8691-8711. （SCI 3区, JCR Q3, IF: 1.8）
 
 [34] Bin Xiao, Zheng Chen, Yanxue Wu, Min Wang, Shengtong Hu, `Xingpeng Zhang*`. DFF-Net: Dynamic feature fusion network for time series prediction[J]. International Journal of Approximate Reasoning. 2025, 183: 109436. （SCI 3区, JCR Q2, IF: 3.2）
 
@@ -154,6 +154,8 @@ redirect_from:
 
 ### 中文
 ---
+[18] 汪敏，刘德琦, 肖斌*, 韩雄, 乔豁通, `张兴鹏`. 融合频域注意力与趋势分解线性网络的井漏预测方法[J]. 石油机械. 2025, 35(11): 1-10. (北大核心)
+
 [17] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. 51(09): 192-200. (CCF 推荐 B 类中文期刊，通讯)
 
 [16] `张兴鹏*`, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
