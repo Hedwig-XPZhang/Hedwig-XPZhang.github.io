@@ -43,12 +43,13 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 🏛️ 纵向项目
+[9] 四川省中央引导地方科技发展专项: 智能手机AI摄像头模组算法及检测工艺技术成果转化（2025ZYD0117）. `主持`.
 
 [8] 国家重点研发计划: 城镇燃气系统事故隐患排查管控关键技术研究与示范 (2024YFC3810700). 主研.
 
 [7] 国家自然科学基金专项: 高相似背景下复杂物体的多域协同检测研究 (62441610). `主持`.
 
-[6] 西南石油大学自然科学“启航计划”项目: 融合分数阶图像增强理论的隐蔽物体实时检测研究 (2022QHZ023). 主持.
+[6] 西南石油大学自然科学“启航计划”项目: 融合分数阶图像增强理论的隐蔽物体实时检测研究 (2022QHZ023). `主持`.
 
 [5] 四川省科技创新人才基金: 超大规模知识图谱构建、推理与检索技术研究 (2022JDRC0009). 主研. 
 
@@ -66,6 +67,10 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[45] Xuanru Dai, `Xingpeng Zhang*`. Small-Scale Camouflaged Object Detection for Agricultural Automation[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). Accepted paper. (CCF B类推荐会议). (指导本科生完成)
+
+[44] Bin Xiao, Jiahao Xu, Mo Yang, Min Wang, `Xingpeng Zhang*`. Enhancing domain generation through pluggable Style Randomization[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). Accepted paper. (CCF B类推荐会议). 
+
 [43] Bin Xiao, Jiahang Xin, `Xingpeng Zhang*`, Junchao Wen, Yufei Cheng, Fuyuan Wei. Skin Lesion Segmentation Model with Large Receptive Fields and Multi-Scale Features[C]. International Conference on Virtual Reality and Visualization (ICVRV). 2025, Accepted paper. (CCF C类会议)
 
 [42] Bin Xiao, Junhao Wen, Xianjie He, Yanxue Wu, `Xingpeng Zhang*`, Shengtong Hu. PRepDETR: A Real-Time Detection Transformer with Partial Convolutions and Efficient Cross-Scale Feature Fusion[J]. Journal of Real-time Image Processing. 2025, Accepted paper. (SCI 4区, IF: 3)
