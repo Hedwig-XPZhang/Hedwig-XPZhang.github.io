@@ -67,6 +67,8 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[46] `Xingpeng Zhang*`, Jing Xu, Han Zhao, Qiuli Wang, Dian Qi, Yan Chen, Yang Yu, Bin Xiao, Bing Wang. Generative Data Augmentation for Metamorphic Rock Thin-Section Classification based on One-Step Diffusion Model[J]. Computational Geosciences. 2026. Accepted paper.（SCI 3区, JCR Q2, IF: 2.2）
+
 [45] Xuanru Dai, `Xingpeng Zhang*`. Small-Scale Camouflaged Object Detection for Agricultural Automation[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). Accepted paper. (CCF B类推荐会议). (指导本科生完成)
 
 [44] Bin Xiao, Jiahao Xu, Mo Yang, Min Wang, `Xingpeng Zhang*`. Enhancing domain generation through pluggable Style Randomization[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). Accepted paper. (CCF B类推荐会议). 
