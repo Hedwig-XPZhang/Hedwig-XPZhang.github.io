@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-任职于西南石油大学 计算机与软件学院。博士毕业于重庆大学 大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、EMNLP、MICCAI、Neurocomputing、Chaos, Solitons & Fractals、Applied Intelligence等国际期刊和学术会议上发表 40+ 篇学术论文。
+任职于西南石油大学 计算机与软件学院。博士毕业于重庆大学 大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、EMNLP、MICCAI、ICASSP、Neurocomputing、Chaos, Solitons & Fractals、Applied Intelligence等国际期刊和学术会议上发表 40+ 篇学术论文。
 
 研究领域包括：
 - 计算机视觉
@@ -67,7 +67,7 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[46] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
+[47] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
 
 [46] `Xingpeng Zhang*`, Jing Xu, Han Zhao, Qiuli Wang, Dian Qi, Yan Chen, Yang Yu, Bin Xiao, Bing Wang. Generative Data Augmentation for Metamorphic Rock Thin-Section Classification based on One-Step Diffusion Model[J]. Computational Geosciences. 2026, 30(1): 7.（SCI 3区, JCR Q2, IF: 2.2）
 
