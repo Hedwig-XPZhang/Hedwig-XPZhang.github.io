@@ -67,15 +67,17 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[46] `Xingpeng Zhang*`, Jing Xu, Han Zhao, Qiuli Wang, Dian Qi, Yan Chen, Yang Yu, Bin Xiao, Bing Wang. Generative Data Augmentation for Metamorphic Rock Thin-Section Classification based on One-Step Diffusion Model[J]. Computational Geosciences. 2026. Accepted paper.（SCI 3区, JCR Q2, IF: 2.2）
+[46] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
+
+[46] `Xingpeng Zhang*`, Jing Xu, Han Zhao, Qiuli Wang, Dian Qi, Yan Chen, Yang Yu, Bin Xiao, Bing Wang. Generative Data Augmentation for Metamorphic Rock Thin-Section Classification based on One-Step Diffusion Model[J]. Computational Geosciences. 2026, 30(1): 7.（SCI 3区, JCR Q2, IF: 2.2）
 
 [45] Xuanru Dai, `Xingpeng Zhang*`. Small-Scale Camouflaged Object Detection for Agricultural Automation[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). Accepted paper. (CCF B类推荐会议). (指导本科生完成)
 
 [44] Bin Xiao, Jiahao Xu, Mo Yang, Min Wang, `Xingpeng Zhang*`. Enhancing domain generation through pluggable Style Randomization[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). Accepted paper. (CCF B类推荐会议). 
 
-[43] Bin Xiao, Jiahang Xin, `Xingpeng Zhang*`, Junchao Wen, Yufei Cheng, Fuyuan Wei. Skin Lesion Segmentation Model with Large Receptive Fields and Multi-Scale Features[C]. International Conference on Virtual Reality and Visualization (ICVRV). 2025, Accepted paper. (CCF C类会议)
+[43] Bin Xiao, Junhao Wen, Xianjie He, Yanxue Wu, `Xingpeng Zhang*`, Shengtong Hu. PRepDETR: A Real-Time Detection Transformer with Partial Convolutions and Efficient Cross-Scale Feature Fusion[J]. Journal of Real-time Image Processing. 2026, 23(1): 21. (SCI 4区, IF: 3)
 
-[42] Bin Xiao, Junhao Wen, Xianjie He, Yanxue Wu, `Xingpeng Zhang*`, Shengtong Hu. PRepDETR: A Real-Time Detection Transformer with Partial Convolutions and Efficient Cross-Scale Feature Fusion[J]. Journal of Real-time Image Processing. 2025, Accepted paper. (SCI 4区, IF: 3)
+[42] Bin Xiao, Jiahang Xin, `Xingpeng Zhang*`, Junchao Wen, Yufei Cheng, Fuyuan Wei. Skin Lesion Segmentation Model with Large Receptive Fields and Multi-Scale Features[C]. International Conference on Virtual Reality and Visualization (ICVRV). 2025, Accepted paper. (CCF C类会议)
 
 [41] Qiuli Wang, Xiaoming Li, Jie Chen, Yongxu Liu, `Xingpeng Zhang`, Chen Liu, Wei Chen. From Prompt Optimization to Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports[J]. arXiv.2510.23008. 2025
 
@@ -85,7 +87,7 @@ redirect_from:
 
 [38] Ping Chen, Xiang Liu, Zhaoxiang Liu, Zezhou Chen, `Xingpeng Zhang`, Huan Hu, Zipeng Wang, Kai Wang, Shuming Shi, Shiguo Lian. Fuzzy Reasoning Chain (FRC): An Innovative Reasoning Framework from Fuzziness to Clarity[C]. 2025 Conference on Empirical Methods in Natural Language Processing Findings (EMNLP). 2025: 10230-10240. (`CCF B类推荐会议`)
 
-[37] Bing Wang, Youming Zhang, `Xingpeng Zhang*`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). Accepted paper. (CCF C类推荐会议)
+[37] Bing Wang, Youming Zhang, `Xingpeng Zhang*`, Chunlan Zhao, Chi Zhang, Chaoqi Cai. Text-To-SQL Correction Based on Correlation Degree and Multi-Round Error Evaluation[C]. IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2025: 2199-2204. (CCF C类推荐会议)
 
 [36] Bin Xiao, Zehao Ge, `Xingpeng Zhang*`, Zheng Chen, Zhou Yang, Yanxue Wu. FCAFormer: Multivariate Time Series Forecasting Combining Channel Attention and Transformer in the Frequency Domain[J]. The Journal of Supercomputing. 2025, 81(11): 1167. （SCI 4区, JCR Q2, IF: 2.4）
 
