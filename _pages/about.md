@@ -68,6 +68,10 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[49] `Xingpeng Zhang`, Peng Guo, Chao Gao, Wei Li, Yang Yu, Qiuli Wang*. A Frequency-Aware Lightweight Network for Robust Nuclei Segmentation and Classification on Challenging Histologies[C]. IEEE International Conference on Multimedia & Expo (ICME). 2026, Accepted paper. (CCF B类推荐会议)
+
+[48] Ping Chen, Xiang Liu, `Xingpeng Zhang`, Fei Shen, Xun Gong, Zhaoxiang Liu, Zezhou Chen, Huan Hu, Kai Wang, Shiguo Lian. Chain-of-Trajectories: Unlocking the Intrinsic Generative Optimalityof Diffusion Models via Graph-Theoretic Planning[J]. chinaxiv.org/abs/202603.00028. 2026. https://github.com/UnicomAI/CoTj
+
 [47] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
 
 [46] `Xingpeng Zhang*`, Jing Xu, Han Zhao, Qiuli Wang, Dian Qi, Yan Chen, Yang Yu, Bin Xiao, Bing Wang. Generative Data Augmentation for Metamorphic Rock Thin-Section Classification based on One-Step Diffusion Model[J]. Computational Geosciences. 2026, 30(1): 7.（SCI 3区, JCR Q2, IF: 2.2）
