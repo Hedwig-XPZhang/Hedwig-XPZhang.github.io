@@ -44,6 +44,8 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 🏛️ 纵向项目
+[10] 国家科技重大专项: 油气新极端运行场景预测预警技术研究（2025ZD1408605-03-01）. 主研.
+
 [9] 四川省中央引导地方科技发展专项: 智能手机AI摄像头模组算法及检测工艺技术成果转化（2025ZYD0117）. `主持`.
 
 [8] 国家重点研发计划: 城镇燃气系统事故隐患排查管控关键技术研究与示范 (2024YFC3810700). 主研.
@@ -68,25 +70,25 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[51] Yang Yu, Zili Yan, `Xingpeng Zhang`. LABMamba: A Locally-Guided Alternating Bidirectional Mamba Method for Point Cloud Classification[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
+[51] Yang Yu, Zili Yan, `Xingpeng Zhang*`. LABMamba: A Locally-Guided Alternating Bidirectional Mamba Method for Point Cloud Classification[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
 
-[50] `Xingpeng Zhang`, Dian Qi, Yuru Li, Xingpen Hu, Qiuli Wang, Yang Yu. Efficient-CANet: Rethinking Cross-Temporal Interaction and Multi-Scale Geometry for Ultra-Lightweight Change Detection[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
+[50] `Xingpeng Zhang`, Dian Qi, Yuru Li, Xingpen Hu, Qiuli Wang, Yang Yu*. Efficient-CANet: Rethinking Cross-Temporal Interaction and Multi-Scale Geometry for Ultra-Lightweight Change Detection[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
 
 [49] `Xingpeng Zhang`, Peng Guo, Chao Gao, Wei Li, Yang Yu, Qiuli Wang*. A Frequency-Aware Lightweight Network for Robust Nuclei Segmentation and Classification on Challenging Histologies[C]. IEEE International Conference on Multimedia & Expo (ICME). 2026, Accepted paper. (CCF B类推荐会议)
 
 [48] Ping Chen, Xiang Liu, `Xingpeng Zhang`, Fei Shen, Xun Gong, Zhaoxiang Liu, Zezhou Chen, Huan Hu, Kai Wang, Shiguo Lian. Chain-of-Trajectories: Unlocking the Intrinsic Generative Optimalityof Diffusion Models via Graph-Theoretic Planning[J]. arxiv. 2603.14704 2026. https://github.com/UnicomAI/CoTj
 
-[47] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
+[47] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian*. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
 
 [46] `Xingpeng Zhang*`, Jing Xu, Han Zhao, Qiuli Wang, Dian Qi, Yan Chen, Yang Yu, Bin Xiao, Bing Wang. Generative Data Augmentation for Metamorphic Rock Thin-Section Classification based on One-Step Diffusion Model[J]. Computational Geosciences. 2026, 30(1): 7.（SCI 3区, JCR Q2, IF: 2.2）
 
-[45] Xuanru Dai, `Xingpeng Zhang*`. Small-Scale Camouflaged Object Detection for Agricultural Automation[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). Accepted paper. (CCF B类推荐会议). (指导本科生完成)
+[45] Xuanru Dai, `Xingpeng Zhang*`. Small-Scale Camouflaged Object Detection for Agricultural Automation[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2026: 10137-10141. (CCF B类推荐会议). (指导本科生完成)
 
-[44] Bin Xiao, Jiahao Xu, Mo Yang, Min Wang, `Xingpeng Zhang*`. Enhancing domain generation through pluggable Style Randomization[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026). Accepted paper. (CCF B类推荐会议). 
+[44] Bin Xiao, Jiahao Xu, Mo Yang, Min Wang, `Xingpeng Zhang*`. Enhancing domain generation through pluggable Style Randomization[C]. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP). 2026: 3081-3085. (CCF B类推荐会议). 
 
 [43] Bin Xiao, Junhao Wen, Xianjie He, Yanxue Wu, `Xingpeng Zhang*`, Shengtong Hu. PRepDETR: A Real-Time Detection Transformer with Partial Convolutions and Efficient Cross-Scale Feature Fusion[J]. Journal of Real-time Image Processing. 2026, 23(1): 21. (SCI 4区, IF: 3)
 
-[42] Bin Xiao, Jiahang Xin, `Xingpeng Zhang*`, Junchao Wen, Yufei Cheng, Fuyuan Wei. Skin Lesion Segmentation Model with Large Receptive Fields and Multi-Scale Features[C]. International Conference on Virtual Reality and Visualization (ICVRV). 2025, Accepted paper. (CCF C类会议)
+[42] Bin Xiao, Jiahang Xin, `Xingpeng Zhang*`, Junchao Wen, Yufei Cheng, Fuyuan Wei. Skin Lesion Segmentation Model with Large Receptive Fields and Multi-Scale Features[C]. International Conference on Virtual Reality and Visualization (ICVRV). 2025: 7-12. (CCF C类会议)
 
 [41] Qiuli Wang, Xiaoming Li, Jie Chen, Yongxu Liu, `Xingpeng Zhang`, Chen Liu, Wei Chen. From Prompt Optimization to Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports[J]. arXiv.2510.23008. 2025
 
@@ -172,6 +174,8 @@ redirect_from:
 
 ### 中文
 ---
+[19] 韦富元，肖斌，龚捷，`张兴鹏*`. 融合亮度引导与自适应扫描的低照度图像增强方法[J/OL]. 计算机科学与探索. 2026. 1-15. [2026-05-12].https://link.cnki.net/urlid/11.5602.tp.20260411.1751.002. (CCF 推荐 B 类中文期刊，通讯)
+
 [18] 汪敏，刘德琦, 肖斌*, 韩雄, 乔豁通, `张兴鹏`. 融合频域注意力与趋势分解线性网络的井漏预测方法[J]. 石油机械. 2025, 35(11): 1-10. (北大核心)
 
 [17] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. 51(09): 192-200. (CCF 推荐 B 类中文期刊，通讯)
