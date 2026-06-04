@@ -70,6 +70,8 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[52] Bin Xiao, Jiahao Xu, Xinqi Xie, `Xingpeng Zhang*`, Min Wang, Fuyuan Wei, Yanxue Wu. EFS-DETR: An Efficient Fire and Smoke Detection Network Based on Frequency-Aware Feature Fusion[J]. Fire Technology. 2026.  Accepted paper. (SCI 3区)
+
 [51] Yang Yu, Zili Yan, `Xingpeng Zhang*`. LABMamba: A Locally-Guided Alternating Bidirectional Mamba Method for Point Cloud Classification[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
 
 [50] `Xingpeng Zhang`, Dian Qi, Yuru Li, Xingpen Hu, Qiuli Wang, Yang Yu*. Efficient-CANet: Rethinking Cross-Temporal Interaction and Multi-Scale Geometry for Ultra-Lightweight Change Detection[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
@@ -174,6 +176,8 @@ redirect_from:
 
 ### 中文
 ---
+[20] 王兵，张维，赵春兰，`张兴鹏*`，邓美琪. 面向多表问答的语义列选择与代数推理方法[J/OL]. 计算机科学与探索. 2026. 1-14. [2026-06-04].https://link.cnki.net/urlid/11.5602.TP.20260522.1437.004 (CCF 推荐 B 类中文期刊，通讯) 
+
 [19] 韦富元，肖斌，龚捷，`张兴鹏*`. 融合亮度引导与自适应扫描的低照度图像增强方法[J/OL]. 计算机科学与探索. 2026. 1-15. [2026-05-12].https://link.cnki.net/urlid/11.5602.tp.20260411.1751.002. (CCF 推荐 B 类中文期刊，通讯)
 
 [18] 汪敏，刘德琦, 肖斌*, 韩雄, 乔豁通, `张兴鹏`. 融合频域注意力与趋势分解线性网络的井漏预测方法[J]. 石油机械. 2025, 35(11): 1-10. (北大核心)
