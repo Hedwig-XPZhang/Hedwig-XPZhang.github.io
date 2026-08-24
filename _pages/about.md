@@ -70,7 +70,7 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[53] Fuyuan Wei, Bin Xiao, Xianjie He, Jie Gong, Wei Zhang, Jiahao Xu, Min Wang, `Xingpeng Zhang*`. DualCENet: A Dual-Branch Mamba Architecture Integrating HVI Color Space for Enhanced Low-Light Imaging[J]. Circuits, Systems, and Signal Processing. 2026, https://doi.org/10.1007/s00034-026-03729-6 
+[53] Fuyuan Wei, Bin Xiao, Xianjie He, Jie Gong, Wei Zhang, Jiahao Xu, Min Wang, `Xingpeng Zhang*`. DualCENet: A Dual-Branch Mamba Architecture Integrating HVI Color Space for Enhanced Low-Light Imaging[J]. Circuits, Systems, and Signal Processing. 2026, https://doi.org/10.1007/s00034-026-03729-6 (SCI 3区)
 
 [52] Bin Xiao, Jiahao Xu, Xinqi Xie, `Xingpeng Zhang*`, Min Wang, Fuyuan Wei, Yanxue Wu. EFS-DETR: An Efficient Fire and Smoke Detection Network Based on Frequency-Aware Feature Fusion[J]. Fire Technology. 2026, 62: 107. (SCI 3区)
 
