@@ -70,7 +70,9 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
-[52] Bin Xiao, Jiahao Xu, Xinqi Xie, `Xingpeng Zhang*`, Min Wang, Fuyuan Wei, Yanxue Wu. EFS-DETR: An Efficient Fire and Smoke Detection Network Based on Frequency-Aware Feature Fusion[J]. Fire Technology. 2026.  Accepted paper. (SCI 3区)
+[53] Fuyuan Wei, Bin Xiao, Xianjie He, Jie Gong, Wei Zhang, Jiahao Xu, Min Wang, `Xingpeng Zhang*`. DualCENet: A Dual-Branch Mamba Architecture Integrating HVI Color Space for Enhanced Low-Light Imaging[J]. Circuits, Systems, and Signal Processing. 2026, https://doi.org/10.1007/s00034-026-03729-6 
+
+[52] Bin Xiao, Jiahao Xu, Xinqi Xie, `Xingpeng Zhang*`, Min Wang, Fuyuan Wei, Yanxue Wu. EFS-DETR: An Efficient Fire and Smoke Detection Network Based on Frequency-Aware Feature Fusion[J]. Fire Technology. 2026, 62: 107. (SCI 3区)
 
 [51] Yang Yu, Zili Yan, `Xingpeng Zhang*`. LABMamba: A Locally-Guided Alternating Bidirectional Mamba Method for Point Cloud Classification[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
 
@@ -176,19 +178,22 @@ redirect_from:
 
 ### 中文
 ---
-[21] 王兵、李一、`张兴鹏`. 面向大模型的中医药知识增强微调研究[J]. 计算机科学与探索. 2026.
+[22] `张兴鹏`，刘晓鹏，李伟，王秋里*. 融合显式边界先验与解耦注意力的多模态脑肿瘤分割网络[J]. 中国图象图形学报. 2026, Accepted Paper. (CCF 推荐 B 类中文期刊) 
+
+[21] 王兵, 李一, `张兴鹏`. 面向大模型的中医药知识增强微调研究[J/OL]. 计算机科学与探索, 1-16 [2026-08-24]. https://link.cnki.net/urlid/11.5602.tp.20260706.1440.002. (CCF 推荐 B 类中文期刊) 
 
 [20] 王兵，张维，赵春兰，`张兴鹏*`，邓美琪. 面向多表问答的语义列选择与代数推理方法[J/OL]. 计算机科学与探索. 2026. 1-14. [2026-06-04].https://link.cnki.net/urlid/11.5602.TP.20260522.1437.004 (CCF 推荐 B 类中文期刊，通讯) 
 
 [19] 韦富元，肖斌，龚捷，`张兴鹏*`. 融合亮度引导与自适应扫描的低照度图像增强方法[J/OL]. 计算机科学与探索. 2026. 1-15. [2026-05-12].https://link.cnki.net/urlid/11.5602.tp.20260411.1751.002. (CCF 推荐 B 类中文期刊，通讯)
 
-[18] 汪敏，刘德琦, 肖斌*, 韩雄, 乔豁通, `张兴鹏`. 融合频域注意力与趋势分解线性网络的井漏预测方法[J]. 石油机械. 2025, 35(11): 1-10. (北大核心)
+[18] `张兴鹏*`, 何东, 王兵, 徐裴. 基于 YOLOv5s 的不安全行为检测[J]. 计算机应用与软件, 2026, 43(7): 240-246. (北大核心)
 
-[17] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. 51(09): 192-200. (CCF 推荐 B 类中文期刊，通讯)
+[17] 汪敏，刘德琦, 肖斌*, 韩雄, 乔豁通, `张兴鹏`. 融合频域注意力与趋势分解线性网络的井漏预测方法[J]. 石油机械. 2025, 35(11): 1-10. (北大核心)
 
-[16] `张兴鹏*`, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
+[16] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. 51(09): 192-200. (CCF 推荐 B 类中文期刊，通讯)
 
-[15] `张兴鹏*`, 何东, 王兵, 徐裴. 基于 YOLOv5s 的不安全行为检测[J]. 计算机应用与软件. 2024. (已录用). (北大核心)
+[15] `张兴鹏*`, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
+
 
 [14] 王兵, 徐裴, `张兴鹏*`. 傅里叶增强的无偏跨域目标检测研究[J]. 计算机科学与探索, 2024, 18(09): 2436-2448. (CCF 推荐 B 类中文期刊，通讯)
 
