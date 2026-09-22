@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-任职于西南石油大学 计算机与软件学院。博士毕业于重庆大学 大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、EMNLP、MICCAI、ICASSP、Neurocomputing、Chaos, Solitons & Fractals、Applied Intelligence等国际期刊和学术会议上发表 40+ 篇学术论文。
+任职于西南石油大学 计算机与软件学院。博士毕业于重庆大学 大数据与软件学院，师从张小洪教授。硕士毕业于重庆大学 数学与统计学院，师从李东教授。本科毕业于济南大学 数学科学学院。包括合著，在CVPR、ICME、EMNLP、MICCAI、ICASSP、Chaos, Solitons & Fractals、Neurocomputing、Applied Intelligence等国际期刊和学术会议上发表 50+ 篇学术论文。
 
 研究领域包括：
 - 计算机视觉
@@ -68,9 +68,27 @@ redirect_from:
 
 # 📝 论文专利
 
+### 代表作 (*为通讯作者)
+[6] `Xingpeng Zhang`, Peng Guo, Chao Gao, Wei Li, Yang Yu, Qiuli Wang*. A Frequency-Aware Lightweight Network for Robust Nuclei Segmentation and Classification on Challenging Histologies[C]. IEEE International Conference on Multimedia & Expo (ICME). 2026, Accepted paper. (CCF B类推荐会议)
+
+[5] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian*. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
+
+[4] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025. (`CCF A类推荐会议, Highlight paper`)
+
+[3] Ping Chen, `Xingpeng Zhang`, Chengtao Zhou, Dichao Fan, Peng Tu, Le Zhang, Yanlin Qian*. Learning Triangular Distribution in Visual World[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024: 11019-11029. (`CCF A类推荐会议`, 共同一作)
+
+[2] Ping Chen, `Xingpeng Zhang*`, Ye Li, Ju Tao, Bin Xiao, Bing Wang, Zongjie Jiang, DAA: A Delta Age AdaIN operation for age estimation via binary code transformer[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2023: 15836-15845. (`CCF A类推荐会议`)
+
+[1] `Xingpeng Zhang`, Dong Li*, Xiaohong Zhang, Adaptive fuzzy impulsive synchronization of chaotic systems with random parameters[J]. Chaos, Solitons & Fractals, 2017, 104: 77-83. （SCI 1区, JCR Q1, IF: 5.6）
+
 ### 英文 (*为通讯作者)
 ---
-[54] Yang Yu, Fei Zhu, Minghao Yang, `Xingpeng Zhang`, Chunhua Ren and Bopeng Fang. VMES-MC: A Lightweight Verifiable Multi-Owner Encrypted Search Scheme for Mobile Cloud[C]. International Conference on Information and Communications Security (ICICS 2026). Accepted paper. (CCF C类推荐会议)
+[56] Qiuli Wang, Xinhuan Sun, Yonglin Chen, Jie Cheng, Yongxu Liu, `Xingpeng Zhang`, Xiaoming Li, Wei Chen*. From Prompt Optimization to
+Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports—with Preliminary Extension to Lung Cancer[J]. BMC Medical Imaging. 2026. Accepted paper. (SCI 3区)
+
+[55] Yang Yu, Ziyang Zhang, Qijun Hu, Leping He, Yu Bai, `Xingpeng Zhang`. AdaSpec-KAN: Adaptive Spectrum Kolmogorov-Arnold Networks for Long-Term Time Series Forecasting[C]. International Conference on Advanced Data Mining and Applications. 2026. Accepted paper. (CCF C类推荐会议)
+
+[54] Yang Yu, Fei Zhu, Minghao Yang, `Xingpeng Zhang`, Chunhua Ren and Bopeng Fang. VMES-MC: A Lightweight Verifiable Multi-Owner Encrypted Search Scheme for Mobile Cloud[C]. International Conference on Information and Communications Security (ICICS 2026). 2026. Accepted paper. (CCF C类推荐会议)
 
 [53] Fuyuan Wei, Bin Xiao, Xianjie He, Jie Gong, Wei Zhang, Jiahao Xu, Min Wang, `Xingpeng Zhang*`. DualCENet: A Dual-Branch Mamba Architecture Integrating HVI Color Space for Enhanced Low-Light Imaging[J]. Circuits, Systems, and Signal Processing. 2026, https://doi.org/10.1007/s00034-026-03729-6 (SCI 3区)
 
@@ -180,34 +198,36 @@ redirect_from:
 
 ### 中文
 ---
-[22] `张兴鹏`，刘晓鹏，李伟，王秋里*. 融合显式边界先验与解耦注意力的多模态脑肿瘤分割网络[J]. 中国图象图形学报. 2026, 1-18. DOI: 10.11834/jig.260306 (CCF 推荐 B 类中文期刊) 
+[23] `张兴鹏`，李伟，刘晓鹏，王秋里*. 面向高效部署的轻量化多模态脑肿瘤MRI分割网络[J]. 陆军军医大学学报. 2026. Accepted paper. (CSCD)
 
-[21] 王兵, 李一, `张兴鹏`. 面向大模型的中医药知识增强微调研究[J]. 计算机科学与探索, 1-16. DOI: 10.3778/j.issn.1673-9418.2604012 (CCF 推荐 B 类中文期刊) 
+[22] `张兴鹏`，刘晓鹏，李伟，王秋里*. 融合显式边界先验与解耦注意力的多模态脑肿瘤分割网络[J]. 中国图象图形学报. 2026, 1-18. DOI: 10.11834/jig.260306 (CCF 推荐T2类中文期刊) 
 
-[20] 王兵，张维，赵春兰，`张兴鹏*`，邓美琪. 面向多表问答的语义列选择与代数推理方法[J]. 计算机科学与探索. 2026. 1-14. DOI: 10.3778/j.issn.1673-9418.2603043 (CCF 推荐 B 类中文期刊，通讯) 
+[21] 王兵, 李一, `张兴鹏`. 面向大模型的中医药知识增强微调研究[J]. 计算机科学与探索, 1-16. DOI: 10.3778/j.issn.1673-9418.2604012 (CCF 推荐T2类中文期刊) 
 
-[19] 韦富元，肖斌，龚捷，`张兴鹏*`. 融合亮度引导与自适应扫描的低照度图像增强方法[J]. 计算机科学与探索. 2026. 1-15. DOI: 10.3778/j.issn.1673-9418.2601033 (CCF 推荐 B 类中文期刊，通讯)
+[20] 王兵，张维，赵春兰，`张兴鹏*`，邓美琪. 面向多表问答的语义列选择与代数推理方法[J]. 计算机科学与探索. 2026. 1-14. DOI: 10.3778/j.issn.1673-9418.2603043 (CCF 推荐T2类中文期刊，通讯) 
+
+[19] 韦富元，肖斌，龚捷，`张兴鹏*`. 融合亮度引导与自适应扫描的低照度图像增强方法[J]. 计算机科学与探索. 2026. 1-15. DOI: 10.3778/j.issn.1673-9418.2601033 (CCF 推荐T2类中文期刊，通讯)
 
 [18] `张兴鹏*`, 何东, 王兵, 徐裴. 基于 YOLOv5s 的不安全行为检测[J]. 计算机应用与软件, 2026, 43(7): 240-246. (北大核心)
 
 [17] 汪敏，刘德琦, 肖斌*, 韩雄, 乔豁通, `张兴鹏`. 融合频域注意力与趋势分解线性网络的井漏预测方法[J]. 石油机械. 2025, 35(11): 1-10. (北大核心)
 
-[16] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. 51(09): 192-200. (CCF 推荐 B 类中文期刊，通讯)
+[16] 杨明芬, 甘昀, `张兴鹏*`. 基于有监督自编码器的 TLS 加密异常流量检测[J]. 计算机工程. 2025. 51(09): 192-200. (CCF 推荐T2类中文期刊，通讯)
 
-[15] `张兴鹏*`, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐 B 类中文期刊)
+[15] `张兴鹏*`, 何东, 杨模, 叶杭滨. 基于多尺度注意力和数据增强的细胞核分割[J]. 计算机工程. 2025, 51(02): 387-396. (CCF 推荐T2类中文期刊)
 
 
-[14] 王兵, 徐裴, `张兴鹏*`. 傅里叶增强的无偏跨域目标检测研究[J]. 计算机科学与探索, 2024, 18(09): 2436-2448. (CCF 推荐 B 类中文期刊，通讯)
+[14] 王兵, 徐裴, `张兴鹏*`. 傅里叶增强的无偏跨域目标检测研究[J]. 计算机科学与探索, 2024, 18(09): 2436-2448. (CCF 推荐T2类中文期刊，通讯)
 
-[13] 肖斌, 甘昀, 汪敏, `张兴鹏*`, 王照星. 基于端口注意力与通道空间注意力的网络异常流量检测[J]. 计算机应用, 2024. 44(04): 1027-1034 (CCF 推荐 B 类中文期刊，通讯)
+[13] 肖斌, 甘昀, 汪敏, `张兴鹏*`, 王照星. 基于端口注意力与通道空间注意力的网络异常流量检测[J]. 计算机应用, 2024. 44(04): 1027-1034 (CCF 推荐T2类中文期刊，通讯)
 
 [12] 肖斌, 罗浩, 张恒宾, 刘宏伟, `张兴鹏*`. 多尺度融合卷积的轻量化 Transformer无人机地物识别模型[J]. 郑州大学学报(理学版), 2024, 56(01): 32-39. (北大核心，通讯)
 
-[11] 肖斌, 郭经伟, `张兴鹏*`, 汪敏. 基于融合池化和注意力增强的细粒度视觉分类网络[J]. 模式识别与人工智能, 2023, 36(07): 661-670. (CCF 推荐 B 类中文期刊，通讯)
+[11] 肖斌, 郭经伟, `张兴鹏*`, 汪敏. 基于融合池化和注意力增强的细粒度视觉分类网络[J]. 模式识别与人工智能, 2023, 36(07): 661-670. (CCF 推荐T2类中文期刊，通讯)
 
-[10] 杨海洋, `张兴鹏*`. 融合多通道图卷积网络的方面级情感分析模型[J]. 计算机工程, 2023, 49(11): 61-69. (CCF推荐B类中文期刊)
+[10] 杨海洋, `张兴鹏*`. 融合多通道图卷积网络的方面级情感分析模型[J]. 计算机工程, 2023, 49(11): 61-69. (CCF推荐T2类中文期刊)
 
-[9]	王兵，黄岗，`张兴鹏*`. 融合卷积特征的清晰边缘检测研究[J]. 计算机科学与探索, 2023, 17(09): 2148-2160. (CCF推荐B类中文期刊)
+[9]	王兵，黄岗，`张兴鹏*`. 融合卷积特征的清晰边缘检测研究[J]. 计算机科学与探索, 2023, 17(09): 2148-2160. (CCF推荐T2类中文期刊)
 
 [8] `张兴鹏`. 深度分类网络的结构优化研究[D]. 重庆大学. 2020. 博士学位论文.
 
