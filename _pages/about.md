@@ -83,6 +83,8 @@ redirect_from:
 
 ### 英文 (*为通讯作者)
 ---
+[57] Guanghua Chen, Xianqi Wang, `Xingpeng Zhang`, Yongxu Liu, Xinhuan Sun, Xiaohong Zhang, Bin Fang, Wei Chen, and Qiuli Wang. CT-based EGFR Mutation Prediction via Uncertainty-Aware Nodule Priors[C]. IEEE International Conference on Bioinformatics and Biomedicine. 2026. Accepted paper. (CCF B类推荐会议)
+
 [56] Qiuli Wang, Xinhuan Sun, Yonglin Chen, Jie Cheng, Yongxu Liu, `Xingpeng Zhang`, Xiaoming Li, Wei Chen*. From Prompt Optimization to
 Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports—with Preliminary Extension to Lung Cancer[J]. BMC Medical Imaging. 2026. Accepted paper. (SCI 3区)
 
