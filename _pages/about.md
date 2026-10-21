@@ -71,9 +71,9 @@ redirect_from:
 ### 代表作 (*为通讯作者)
 [6] `Xingpeng Zhang`, Peng Guo, Chao Gao, Wei Li, Yang Yu, Qiuli Wang*. A Frequency-Aware Lightweight Network for Robust Nuclei Segmentation and Classification on Challenging Histologies[C]. IEEE International Conference on Multimedia & Expo (ICME). 2026, Accepted paper. (CCF B类推荐会议)
 
-[5] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian*. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
+[5] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian*. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026: 27114-27123. (`CCF A类推荐会议`)
 
-[4] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025. (`CCF A类推荐会议, Highlight paper`)
+[4] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025: 18021-18030. (`CCF A类推荐会议, Highlight paper`)
 
 [3] Ping Chen, `Xingpeng Zhang`, Chengtao Zhou, Dichao Fan, Peng Tu, Le Zhang, Yanlin Qian*. Learning Triangular Distribution in Visual World[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2024: 11019-11029. (`CCF A类推荐会议`, 共同一作)
 
@@ -81,7 +81,7 @@ redirect_from:
 
 [1] `Xingpeng Zhang`, Dong Li*, Xiaohong Zhang, Adaptive fuzzy impulsive synchronization of chaotic systems with random parameters[J]. Chaos, Solitons & Fractals, 2017, 104: 77-83. （SCI 1区, JCR Q1, IF: 5.6）
 
-### 英文 (*为通讯作者)
+### 英文论文 (*为通讯作者)
 ---
 [57] Guanghua Chen, Xianqi Wang, `Xingpeng Zhang`, Yongxu Liu, Xinhuan Sun, Xiaohong Zhang, Bin Fang, Wei Chen*, and Qiuli Wang*. CT-based EGFR Mutation Prediction via Uncertainty-Aware Nodule Priors[C]. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2026. Accepted paper. (CCF B类推荐会议)
 
@@ -104,7 +104,7 @@ Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese L
 
 [48] Ping Chen, Xiang Liu, `Xingpeng Zhang`, Fei Shen, Xun Gong, Zhaoxiang Liu, Zezhou Chen, Huan Hu, Kai Wang, Shiguo Lian. Chain-of-Trajectories: Unlocking the Intrinsic Generative Optimalityof Diffusion Models via Graph-Theoretic Planning[J]. arxiv. 2603.14704 2026. https://github.com/UnicomAI/CoTj
 
-[47] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian*. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026. Accepted paper. (`CCF A类推荐会议`)
+[47] Ping Chen, Zezhou Chen, `Xingpeng Zhang`, Yanlin Qian, Huan Hu, Xiang Liu, Zipeng Wang, Xin Wang, Zhaoxiang Liu, Kai Wang, Shiguo Lian*. Beyond Geometry: Artistic Disparity Synthesis for Immersive 2D-to-3D[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2026: 27114-27123. (`CCF A类推荐会议`)
 
 [46] `Xingpeng Zhang*`, Jing Xu, Han Zhao, Qiuli Wang, Dian Qi, Yan Chen, Yang Yu, Bin Xiao, Bing Wang. Generative Data Augmentation for Metamorphic Rock Thin-Section Classification based on One-Step Diffusion Model[J]. Computational Geosciences. 2026, 30(1): 7.（SCI 3区, JCR Q2, IF: 2.2）
 
@@ -138,7 +138,7 @@ Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese L
 
 [31] `Xingpeng Zhang`, Hongwei Liu, Bin Xiao*, Min Wang, Bing Wang. Multistage decomposition transformer network for predicting complex long time series of heavy oil parameters[J]. Applied Intelligence. 2025. 55(7): 677. （SCI 2区, JCR Q2, IF: 3.9）
 
-[30] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025. (`CCF A类推荐会议, Highlight paper`)
+[30] Ping Chen, `Xingpeng Zhang`, Zhaoxiang Liu, Huan Hu, Xiang Liu, Kai Wang, Min Wang, Yanlin Qian, Shiguo Lian. Optimizing for the Shortest Path in Denoising Diffusion Model[C]. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2025: 18021-18030. (`CCF A类推荐会议, Highlight paper`)
 
 [29] Xin Wang, Wang Zhang, Yuhong Wu, `Xingpeng Zhang`, Chao Wang, Huayi Zhan. Breaking the gap between label correlation and instance similarity via new multi-label contrastive learning[J]. Neurocomputing. 2025, 614: 128719. （SCI 2区, JCR Q1, IF: 5.5）
 
@@ -198,8 +198,10 @@ Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese L
 
 [1] Dong Li, `Xingpeng Zhang*`, Adaptive impulsive synchronization of fractional order chaotic system with uncertain and unknown parameters[J]. Neurocomputing, 2015, 167: 165-171. （SCI 2区, JCR Q1, IF: 6.5）
 
-### 中文
+### 中文论文
 ---
+[24] `张兴鹏`，高超，高美琳，饶磊，王秋里. 面向伪装物体检测的多尺度边缘感知网络[J]. 浙江大学学报：工学版. 2026. Accepted paper. (CSCD)
+
 [23] `张兴鹏`，李伟，刘晓鹏，王秋里*. 面向高效部署的轻量化多模态脑肿瘤MRI分割网络[J]. 陆军军医大学学报. 2026. Accepted paper. (CSCD)
 
 [22] `张兴鹏`，刘晓鹏，李伟，王秋里*. 融合显式边界先验与解耦注意力的多模态脑肿瘤分割网络[J]. 中国图象图形学报. 2026, 1-18. DOI: 10.11834/jig.260306 (CCF 推荐T2类中文期刊) 
