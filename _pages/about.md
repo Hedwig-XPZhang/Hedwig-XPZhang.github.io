@@ -86,19 +86,19 @@ redirect_from:
 [57] Guanghua Chen, Xianqi Wang, `Xingpeng Zhang`, Yongxu Liu, Xinhuan Sun, Xiaohong Zhang, Bin Fang, Wei Chen*, and Qiuli Wang*. CT-based EGFR Mutation Prediction via Uncertainty-Aware Nodule Priors[C]. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2026. Accepted paper. (CCF B类推荐会议)
 
 [56] Qiuli Wang, Xinhuan Sun, Yonglin Chen, Jie Cheng, Yongxu Liu, `Xingpeng Zhang`, Xiaoming Li, Wei Chen*. From Prompt Optimization to
-Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports—with Preliminary Extension to Lung Cancer[J]. BMC Medical Imaging. 2026. Accepted paper. (SCI 3区)
+Multi-Dimensional Credibility Evaluation: Enhancing Trustworthiness of Chinese LLM-Generated Liver MRI Reports—with Preliminary Extension to Lung Cancer[J]. BMC Medical Imaging. 2026. Article in Press. (SCI 3区)
 
 [55] Yang Yu, Ziyang Zhang, Qijun Hu, Leping He, Yu Bai, `Xingpeng Zhang`. AdaSpec-KAN: Adaptive Spectrum Kolmogorov-Arnold Networks for Long-Term Time Series Forecasting[C]. International Conference on Advanced Data Mining and Applications. 2026. Accepted paper. (CCF C类推荐会议)
 
-[54] Yang Yu, Fei Zhu, Minghao Yang, `Xingpeng Zhang`, Chunhua Ren and Bopeng Fang. VMES-MC: A Lightweight Verifiable Multi-Owner Encrypted Search Scheme for Mobile Cloud[C]. International Conference on Information and Communications Security (ICICS 2026). 2026. Accepted paper. (CCF C类推荐会议)
+[54] Yang Yu, Fei Zhu, Minghao Yang, `Xingpeng Zhang`, Chunhua Ren and Bopeng Fang. VMES-MC: A Lightweight Verifiable Multi-Owner Encrypted Search Scheme for Mobile Cloud[C]. International Conference on Information and Communications Security (ICICS 2026). 2026: 597-616. (CCF C类推荐会议)
 
 [53] Fuyuan Wei, Bin Xiao, Xianjie He, Jie Gong, Wei Zhang, Jiahao Xu, Min Wang, `Xingpeng Zhang*`. DualCENet: A Dual-Branch Mamba Architecture Integrating HVI Color Space for Enhanced Low-Light Imaging[J]. Circuits, Systems, and Signal Processing. 2026, https://doi.org/10.1007/s00034-026-03729-6 (SCI 3区)
 
 [52] Bin Xiao, Jiahao Xu, Xinqi Xie, `Xingpeng Zhang*`, Min Wang, Fuyuan Wei, Yanxue Wu. EFS-DETR: An Efficient Fire and Smoke Detection Network Based on Frequency-Aware Feature Fusion[J]. Fire Technology. 2026, 62: 107. (SCI 3区)
 
-[51] Yang Yu, Zili Yan, `Xingpeng Zhang*`. LABMamba: A Locally-Guided Alternating Bidirectional Mamba Method for Point Cloud Classification[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
+[51] Yang Yu, Zili Yan, `Xingpeng Zhang*`. LABMamba: A Locally-Guided Alternating Bidirectional Mamba Method for Point Cloud Classification[C]. International Joint Conference on Neural Networks (IJCNN). 2026: 1-7. (CCF C类推荐会议)
 
-[50] `Xingpeng Zhang`, Dian Qi, Yuru Li, Xingpen Hu, Qiuli Wang, Yang Yu*. Efficient-CANet: Rethinking Cross-Temporal Interaction and Multi-Scale Geometry for Ultra-Lightweight Change Detection[C]. International Joint Conference on Neural Networks (IJCNN). 2026.  Accepted paper. (CCF C类推荐会议)
+[50] `Xingpeng Zhang`, Dian Qi, Yuru Li, Xingpen Hu, Qiuli Wang, Yang Yu*. Efficient-CANet: Rethinking Cross-Temporal Interaction and Multi-Scale Geometry for Ultra-Lightweight Change Detection[C]. International Joint Conference on Neural Networks (IJCNN). 2026: 1-7. (CCF C类推荐会议)
 
 [49] `Xingpeng Zhang`, Peng Guo, Chao Gao, Wei Li, Yang Yu, Qiuli Wang*. A Frequency-Aware Lightweight Network for Robust Nuclei Segmentation and Classification on Challenging Histologies[C]. IEEE International Conference on Multimedia & Expo (ICME). 2026, Accepted paper. (CCF B类推荐会议)
 
