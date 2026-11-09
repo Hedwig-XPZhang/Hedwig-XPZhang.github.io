@@ -83,6 +83,8 @@ redirect_from:
 
 ### 英文论文 (*为通讯作者)
 ---
+[60] Qiuli Wang, Xinhuan Sun, Fengxi Chen, Yongxu Liu, Jie Cheng, Lin Chen, Jiafei Chen, Siwei Miaod, `Xingpeng Zhang`, Yue Zhang, Xiaoming Li, Wei Chen. Triple-Phase Sequential Fusion Network with Contrast Enhancement Kinetics for Hepatobiliary-Phase Liver MRI Synthesis[J]. Biomedical Signal Processing and Control. 2026. Accepted paper. (SCI 2区)
+
 [59] Bing Wang, Chenyang Wang, `Xingpeng Zhang*`, Wei Zhang. PSW-KAN: Enhancing Cross-Variate Dependency Modeling for Long-Term Time Series Forecasting[J]. Computers and Electrical Engineering. 2026. Accepted paper. (SCI 3区)
 
 [58] Yang Yu, Zengyi Zhang, Qiang Zeng, `Xingpeng Zhang`, Leping He, Qijie Cai, Yu Bai, Qijun Hu*. MGSMamba: Hierarchical Grouped Learning with ShiftedBidirectional State-Space Models for Point CloudClassification and Segmentation[J]. The Visual Computer. 2026. Accepted paper. (SCI 3区)
