@@ -83,6 +83,10 @@ redirect_from:
 
 ### 英文论文 (*为通讯作者)
 ---
+[59] Bing Wang, Chenyang Wang, `Xingpeng Zhang*`, Wei Zhang. PSW-KAN: Enhancing Cross-Variate Dependency Modeling for Long-Term Time Series Forecasting[J]. Computers and Electrical Engineering. 2026. Accepted paper. (SCI 3区)
+
+[58] Yang Yu, Zengyi Zhang, Qiang Zeng, `Xingpeng Zhang`, Leping He, Qijie Cai, Yu Bai, Qijun Hu*. MGSMamba: Hierarchical Grouped Learning with ShiftedBidirectional State-Space Models for Point CloudClassification and Segmentation[J]. The Visual Computer. 2026. Accepted paper. (SCI 3区)
+
 [57] Guanghua Chen, Xianqi Wang, `Xingpeng Zhang`, Yongxu Liu, Xinhuan Sun, Xiaohong Zhang, Bin Fang, Wei Chen*, and Qiuli Wang*. CT-based EGFR Mutation Prediction via Uncertainty-Aware Nodule Priors[C]. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2026. Accepted paper. (CCF B类推荐会议)
 
 [56] Qiuli Wang, Xinhuan Sun, Yonglin Chen, Jie Cheng, Yongxu Liu, `Xingpeng Zhang`, Xiaoming Li, Wei Chen*. From Prompt Optimization to
